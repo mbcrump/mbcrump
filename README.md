@@ -9,3 +9,10 @@ I work at Microsoft on security, compliance and identity. I also live stream top
 - Twitter: http://twitter.com/mbcrump
 - Discord: https://discord.gg/qrGrx8m
 
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...](https://youtube.com/mbcrump)
+
