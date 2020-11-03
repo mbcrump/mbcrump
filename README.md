@@ -12,11 +12,11 @@ I work at Microsoft on security, compliance and identity. I also live stream top
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Solving backdoor.sdslabs.co CTF challenges(revfun, loooong hub, batman, location 51)](https://www.youtube.com/watch?v=dN94AIOBGYo)
 - [Pythonchallenge.com 0-5 Walkthrough](https://www.youtube.com/watch?v=KBGystCoLBQ)
 - [Learn how to setup a Vulnerable Web App (DVWA) on Windows 10 - October 2020 update.](https://www.youtube.com/watch?v=jYr5ZIvUARY)
 - [SQL Server Mystery Game - Full Walkthrough](https://www.youtube.com/watch?v=g41lLdrjddE)
 - [10 Python Apps in 10 Days - Day 7 -Automatically send SMS messages with Python](https://www.youtube.com/watch?v=pA-R65o8SPI)
-- [Windows XP vs a crappy C programmer](https://www.youtube.com/watch?v=CphUbQCj0P8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
