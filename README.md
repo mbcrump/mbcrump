@@ -12,11 +12,11 @@ I work at Microsoft on security, compliance and identity. I also live stream top
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Arduino UNO & ePaper Module AWESOMENESS (Hackerboxes.com Box #46)](https://www.youtube.com/watch?v=ZDyiguFLK_M)
 - [A Successful Social Engineering Experiment - EPIC! (Ethical Hacking)](https://www.youtube.com/watch?v=hai3YF9xUt4)
 - [Generate a hackthebox.eu invite code with Python (2021 update)](https://www.youtube.com/watch?v=jzE0Cqj6j_s)
 - [Tiny Shell Scripts (less than 10 lines)](https://www.youtube.com/watch?v=WqkZ5lgSLvM)
 - [Injecting a payload into an unsuspecting computer and a cheap way to build one.](https://www.youtube.com/watch?v=bPUDdc7-baY)
-- [Build your own VPN server (for FREE or on the cheap)](https://www.youtube.com/watch?v=pU2y9_7vrII)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
