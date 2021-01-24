@@ -17,4 +17,4 @@ jobs:
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCCjHMUEzoCauYet8NG4sCog"
           max_post_count: 1
           output_only: true
-      - run: echo jq .[].title | ${{ steps.blog-post-workflow.outputs.results }} 
+      - run: echo jq '.[].title' | ${{ steps.blog-post-workflow.outputs.results }} 
