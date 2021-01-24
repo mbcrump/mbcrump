@@ -19,7 +19,6 @@ jobs:
           output_only: true
       - run:  TITLE = ${{ steps.blog-post-workflow.outputs.results }}) 
       - uses: sergeysova/jq-action@v2
-      - name: Run jq
+        id: jq
         with:
-    # jq command with arguments
           cmd: echo $TITLE | jq '.[].title'
