@@ -17,4 +17,9 @@ jobs:
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCCjHMUEzoCauYet8NG4sCog"
           max_post_count: 1
           output_only: true
-      - run: sudo apt-get install jq ; TITLE=$(jq '.[].title'  ${{ steps.blog-post-workflow.outputs.results }}) ; echo $KEYS
+      - run:  TITLE = ${{ steps.blog-post-workflow.outputs.results }}) 
+      - uses: sergeysova/jq-action@v2
+      - name: Run jq
+        with:
+    # jq command with arguments
+          cmd: echo $TITLE | jq '.[].title'
