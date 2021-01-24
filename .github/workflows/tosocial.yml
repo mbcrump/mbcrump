@@ -17,8 +17,8 @@ jobs:
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCCjHMUEzoCauYet8NG4sCog"
           max_post_count: 1
           output_only: true
-      - run:  TITLE = ${{ steps.blog-post-workflow.outputs.results }}
+      - run:  echo ::set-output name=json_var::'{{ steps.blog-post-workflow.outputs.results }}'
       - uses: sergeysova/jq-action@v2
         id: jq
         with:
-          cmd: echo $TITLE | jq '.[].title'
+          cmd: echo $json_var | jq '.[].title'
