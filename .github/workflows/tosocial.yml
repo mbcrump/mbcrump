@@ -17,8 +17,5 @@ jobs:
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCCjHMUEzoCauYet8NG4sCog"
           max_post_count: 1
           output_only: true
-      - run:  echo ::set-output name=json_var::'{{ steps.blog-post-workflow.outputs.results }}'
-      - uses: sergeysova/jq-action@v2
-        id: jq
-        with:
-          cmd: echo $json_var | jq '.[].title'
+      - run:  echo ::set-output name=json_var::'{{ steps.blog-post-workflow.outputs.results }} ' ; echo $json_var | jq '.[].title'
+        
