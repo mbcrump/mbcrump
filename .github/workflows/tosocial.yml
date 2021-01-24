@@ -20,6 +20,6 @@ jobs:
       - run:  echo ::set-output name=json_var::'{{ steps.blog-post-workflow.outputs.results }} ' 
       - name: use output
         run: |
-         echo $json_var | jq '.[].title'
+          echo $json_var | jq '.[].title'
         env:
-         json_var: ${{ steps.set.outputs.json_var}}
+          json_var: ${{ steps.set.outputs.json_var}}
