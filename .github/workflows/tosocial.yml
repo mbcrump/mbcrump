@@ -1,0 +1,19 @@
+name: YouTube Videos to Social Media
+on:
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+  workflow_dispatch:
+  
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        id: blog-post-workflow
+        with:
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCCjHMUEzoCauYet8NG4sCog"
+          output_only: true
+      - run: echo  ${{ steps.blog-post-workflow.outputs.results }} | jq '.[].title'
