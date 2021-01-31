@@ -12,11 +12,11 @@ I work at Microsoft on security, compliance and identity. I also live stream top
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Part 2- Bash Command-line Kung-Fu](https://www.youtube.com/watch?v=fWDq3P1Dhdw)
 - [CVE-2021-3156: Heap-Based Buffer Overflow in Sudo | Explained, Shown and How to patch (WSL + Linux)](https://www.youtube.com/watch?v=iRIXXUNkgAM)
 - [Part 1- Bash Command-line Kung-Fu](https://www.youtube.com/watch?v=gSJLdT9GVlM)
 - [How to fix date/time issues on Linux (Kali and more) for GOOD! 2021 Update](https://www.youtube.com/watch?v=HDqcp-FZitk)
 - [Arduino UNO & ePaper Module AWESOMENESS (Hackerboxes.com Box #46)](https://www.youtube.com/watch?v=ZDyiguFLK_M)
-- [A Successful Social Engineering Experiment - EPIC! (Ethical Hacking)](https://www.youtube.com/watch?v=hai3YF9xUt4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
