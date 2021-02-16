@@ -12,11 +12,11 @@ I work at Microsoft on security, compliance and identity. I also live stream top
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Build a Firefox Extension from Scratch](https://www.youtube.com/watch?v=WiLu-2GbkFg)
 - [Part 3- Bash Command-line Kung-Fu (TMUX and Screen)](https://www.youtube.com/watch?v=ySpA4Y8uBiU)
 - [Learn how to build an API using Node.js to receive data from a Firefox extension.](https://www.youtube.com/watch?v=DTJ49J4geQg)
 - [Learn how to Interact with iRC with Python 3 on Linux](https://www.youtube.com/watch?v=pqG_8nTmA3E)
 - [Setting up a honeypot in Azure (step by step) 2021](https://www.youtube.com/watch?v=XDSar2i4s-s)
-- [Part 2- Bash Command-line Kung-Fu](https://www.youtube.com/watch?v=fWDq3P1Dhdw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
