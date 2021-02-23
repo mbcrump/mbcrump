@@ -12,11 +12,11 @@ I work at Microsoft on security, compliance and identity. I also live stream top
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [TryHackMe OWASP Room - Task 1-16 SOLVED](https://www.youtube.com/watch?v=hyPOm6saHr4)
 - [Configuring different update options for VS Code](https://www.youtube.com/watch?v=wWSftnxJtxs)
 - [Lastpass to Bitwarden (Explained, Migration Instructions, your questions) 2021](https://www.youtube.com/watch?v=17WIhugenwk)
 - [Mirror your Android phone to Kali Linux (FREE)](https://www.youtube.com/watch?v=qB2B92-BVs8)
 - [Build a Firefox Extension from Scratch](https://www.youtube.com/watch?v=WiLu-2GbkFg)
-- [Part 3- Bash Command-line Kung-Fu (TMUX and Screen)](https://www.youtube.com/watch?v=ySpA4Y8uBiU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
