@@ -12,11 +12,11 @@ I work at Microsoft on security, compliance and identity. I also live stream top
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [2/28 - Interview with P0z0x, Web Vulnerabilities, & more](https://www.youtube.com/watch?v=PZpKdpWnbLw)
 - [Kali Linux 2021.1 Review and What's New?](https://www.youtube.com/watch?v=rfIvTYKn1Bg)
 - [TryHackMe OWASP Room - Task 1-16 SOLVED](https://www.youtube.com/watch?v=hyPOm6saHr4)
 - [Configuring different update options for VS Code](https://www.youtube.com/watch?v=wWSftnxJtxs)
 - [Lastpass to Bitwarden (Explained, Migration Instructions, your questions) 2021](https://www.youtube.com/watch?v=17WIhugenwk)
+- [Mirror your Android phone to Kali Linux (FREE)](https://www.youtube.com/watch?v=qB2B92-BVs8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
