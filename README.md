@@ -12,11 +12,11 @@ I work at Microsoft on security, compliance and identity. I also live stream top
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [3/10 - Uncut : Ransomware on Windows 10](https://www.youtube.com/watch?v=el0TmC_BkT8)
 - [Unboxing - Hackerboxes #60](https://www.youtube.com/watch?v=L3xTN39W9T0)
 - [Docker - From Nothing to Something](https://www.youtube.com/watch?v=Zgf79-GfEu0)
 - [Behind the scenes - Creating a CTF challenge with @smash8tap](https://www.youtube.com/watch?v=PpGF_t4weQk)
 - [Package a Firefox extension that persists after restart](https://www.youtube.com/watch?v=FlO2q3fwdZM)
-- [Part 4 - Bash Command-line Kung-Fu](https://www.youtube.com/watch?v=I4ZBSBSmdJQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
