@@ -12,11 +12,11 @@ I work at Microsoft on security, compliance and identity. I also live stream top
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [3/20 - Arch Linux - Post Install [Terminal Makeover] | Beginners Welcomed!](https://www.youtube.com/watch?v=eyOLsd8GzsI)
 - [Arch Linux: From Nothing to Something [Full Walkthrough] [March 2021]](https://www.youtube.com/watch?v=bWfX3kbVV7Q)
 - [3/13 - #Opensource Intelligence Tools and CTF Challenges | Beginners Welcomed!](https://www.youtube.com/watch?v=9Z7rk2e8R8Q)
 - [Behind the scenes - Creating a CTF challenge with @smash8tap](https://www.youtube.com/watch?v=PpGF_t4weQk)
 - [3/10 - Uncut : Ransomware on Windows 10](https://www.youtube.com/watch?v=el0TmC_BkT8)
+- [Unboxing - Hackerboxes #60](https://www.youtube.com/watch?v=L3xTN39W9T0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
