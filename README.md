@@ -12,11 +12,11 @@ I work at Microsoft on security, compliance and identity. I also live stream top
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Part 2 - Get started with Go Programming Language! (no experience needed)](https://www.youtube.com/watch?v=zuhnzIlDgwQ)
 - [Over the Wire CTF Challenges - Natas 1-11 Solved](https://www.youtube.com/watch?v=2-vreGQkQeg)
 - [Get started with Go Programming Language! (no experience needed)](https://www.youtube.com/watch?v=P_rwJDGy3Ng)
 - [How to share environment variables in Linux across Bash, Python, .NET and more.](https://www.youtube.com/watch?v=uvFMzqRIuSA)
 - [Every Arch Linux User Ever (Satire)](https://www.youtube.com/watch?v=a9MzPAY2UP0)
-- [Creating a CTF challenge with .NET and WinForms (w/ Smash8Tap)](https://www.youtube.com/watch?v=m7SX2MUsKoU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
