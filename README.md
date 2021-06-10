@@ -12,11 +12,11 @@ I work at Microsoft on security, compliance and identity. I also live stream top
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Creating a Capture the Flag (CTF) Challenge using Azure](https://www.youtube.com/watch?v=R7HY1use-x8)
 - [Kali Linux 2021.2 - What's new and COOL Demos](https://www.youtube.com/watch?v=ozA7Jld13Uw)
 - [TEST REST with VS Code #shorts](https://www.youtube.com/watch?v=zcuWR6QSs6Q)
 - [New CTF challenge #shorts](https://www.youtube.com/watch?v=7ttCfEhAsNE)
 - [How to easily test REST endpoints with Visual Studio Code](https://www.youtube.com/watch?v=LmfdPsq4IVs)
-- [Azure Bicep - What it is and why you should care](https://www.youtube.com/watch?v=MYVMmXFV478)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
