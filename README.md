@@ -12,7 +12,7 @@ I work at Microsoft on security, compliance and identity. I also live stream top
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [PlayStation 3 PHAT Disassembly CEC-HH01 (2021 HD Update) with commentary](https://www.youtube.com/watch?v=_nQq91ZhVY8)
+- [PlayStation 3 FAT Disassembly CEC-HH01 (2021 HD Update) with commentary](https://www.youtube.com/watch?v=_nQq91ZhVY8)
 - [Running Game Emulators on a Xbox One Console](https://www.youtube.com/watch?v=nYVxKX00hsQ)
 - [time to grow up](https://www.youtube.com/watch?v=dF2_9rt146M)
 - [less hate and more love](https://www.youtube.com/watch?v=QV1aizu353c)
