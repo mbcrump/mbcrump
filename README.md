@@ -12,11 +12,11 @@ I work at Microsoft on security, compliance and identity. I also live stream top
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [PS3 Slim HDD replacement from scratch](https://www.youtube.com/watch?v=NUSkeis5y8s)
 - [I paid $40 for a used PlayStation 3 Slim. What was on it?](https://www.youtube.com/watch?v=8gfZRmAky3I)
 - [PlayStation 3 Super Slim Reassembly (2021 HD Update) without commentary](https://www.youtube.com/watch?v=hYzFYw88lAk)
 - [PlayStation 3 Super Slim Disassembly (2021 HD Update) with commentary](https://www.youtube.com/watch?v=WGKXMsLsPKQ)
 - [Playstation 3 FAT - Yellow Light of Death Fix (with Hair Dryer)](https://www.youtube.com/watch?v=1LCDgYH2_rs)
-- [PlayStation 3 FAT Reassembly CEC-HH01 (2021 HD Update) without commentary](https://www.youtube.com/watch?v=DNgyYe44RZs)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
