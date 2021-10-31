@@ -12,7 +12,7 @@ I work at Microsoft on security, compliance and identity. I also live stream top
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [How to remove the date and time from the Windows 11 Taskbar](https://www.youtube.com/watch?v=7EbiZmikC9Q)
+- [How to remove the icon tray (+ date and time) from the Windows 11 Taskbar](https://www.youtube.com/watch?v=7EbiZmikC9Q)
 - [How to force the upgrade to Windows 11 on any PC](https://www.youtube.com/watch?v=P3EsMEjaKEU)
 - [How to use Nkit to convert .nkit.iso files to .wbfs - Nintendo Wii Tutorial](https://www.youtube.com/watch?v=iWtNhxOFWA4)
 - [The Ultimate Guide to running homebrew on the Nintendo Switch](https://www.youtube.com/watch?v=2VLIGQujFGk)
