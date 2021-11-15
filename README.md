@@ -12,7 +12,7 @@ I work at Microsoft on security, compliance and identity. I also live stream top
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Sequence 01 3](https://www.youtube.com/watch?v=QdIvv_RCLu8)
+- [Mount Rocky5’s extra disk to your HDD &lpar;no dvd burner required&rpar;](https://www.youtube.com/watch?v=QdIvv_RCLu8)
 - [Softmod a original Xbox with a PSP! &lpar;or usb drive&rpar;](https://www.youtube.com/watch?v=sqqmqlSZdk4)
 - [How to fix 3 common Nintendo Switch homebrew errors and block future system updates](https://www.youtube.com/watch?v=s5O0eYxjPM4)
 - [PS2 DVD Drive not working? FreeMCBoot to the rescue!](https://www.youtube.com/watch?v=jqjHYVH6YGE)
