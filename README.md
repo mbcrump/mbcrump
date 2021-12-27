@@ -12,11 +12,11 @@ I work at Microsoft on security, compliance and identity. I also live stream top
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [PS4 Homebrew Scene News - Episode 1 - PS4 9.00 Jailbreak](https://www.youtube.com/watch?v=gzE1ZwTYoUw)
 - [The PS4 Homebrew Store has been updated for 9.00 Jailbreak](https://www.youtube.com/watch?v=mPrOGMnTndY)
 - [How to install PS4 Themes on a Jailbroken PS4 9.00 and Lower!](https://www.youtube.com/watch?v=3B5m_0Ih4fk)
 - [Change PS4 Startup Sounds AND MORE for PS4 9.00 Jailbreak](https://www.youtube.com/watch?v=oOUrKK5P6kc)
 - [Orbis Toolbox for PS4 9.00 Jailbreak is out!](https://www.youtube.com/watch?v=MCVBC5m_1kI)
-- [8 Tips for working with Game Backups for PS4 9.00 Jailbreak](https://www.youtube.com/watch?v=kCqZ1g51H5U)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
