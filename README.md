@@ -13,7 +13,7 @@ I work at Microsoft on security, compliance and identity. I also live stream top
 
 <!-- YOUTUBE:START -->
 - [Sega Saturn Emulation on the PS4 9.00 Jailbreak is HERE!](https://www.youtube.com/watch?v=62z0oglZo9Y)
-- [PS4 Homebrew Scene News - Episode 1 - PS4 9.00 Jailbreak](https://www.youtube.com/watch?v=gzE1ZwTYoUw)
+- [PS4 Homebrew Scene News - Ep. 1 - PS4 9.00 Jailbreak &lpar;7.x is dead, Block Updates, DLC&rpar;](https://www.youtube.com/watch?v=gzE1ZwTYoUw)
 - [The PS4 Homebrew Store has been updated for 9.00 Jailbreak](https://www.youtube.com/watch?v=mPrOGMnTndY)
 - [How to install PS4 Themes on a Jailbroken PS4 9.00 and Lower!](https://www.youtube.com/watch?v=3B5m_0Ih4fk)
 - [Change PS4 Startup Sounds AND MORE for PS4 9.00 Jailbreak](https://www.youtube.com/watch?v=oOUrKK5P6kc)
