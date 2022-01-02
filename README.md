@@ -12,11 +12,11 @@ I work at Microsoft on security, compliance and identity. I also live stream top
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [PS4 9.00 Jailbreak Q and A](https://www.youtube.com/watch?v=6kRbi2OOQEw)
 - [How to create Custom Local Avatars for PS4 &lpar;on 9.00 Jailbreak&rpar;](https://www.youtube.com/watch?v=DN6Nz2eLjaE)
 - [PS4 Homebrew Scene News - Ep. 2 - PS4 9.00 Jailbreak &lpar;Sega Saturn, 60 FPS, iOS Payload Sender&rpar;](https://www.youtube.com/watch?v=vFIWTeHVYxM)
 - [Time to FIGHT BACK against PS5 Scalpers with the help of BOTS](https://www.youtube.com/watch?v=Aa-s6I7uxcI)
 - [Sega Saturn Emulation on the PS4 9.00 Jailbreak is HERE!](https://www.youtube.com/watch?v=62z0oglZo9Y)
-- [PS4 Homebrew Scene News - Ep. 1 - PS4 9.00 Jailbreak &lpar;7.x is dead, Block Updates, DLC&rpar;](https://www.youtube.com/watch?v=gzE1ZwTYoUw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
