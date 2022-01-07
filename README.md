@@ -12,11 +12,11 @@ I work at Microsoft on security, compliance and identity. I also live stream top
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Get YOUR Digital PSN Content BACK on your Jailbroken PS4 Console #roadto5k](https://www.youtube.com/watch?v=P9qnJhSoRRA)
 - [PS4 Homebrew Scene News - Ep. 3 - PS4 9.00 Jailbreak &lpar;GTA5 60 FPS, PS VR2? Replace Game Icons&rpar;](https://www.youtube.com/watch?v=2KBpOsa0s_4)
 - [Don&#39;t fall victim to FAKE PS4 9.03 Downgrade Apps](https://www.youtube.com/watch?v=HUjocYjZSV0)
 - [PS4 9.00 Jailbreak Q&amp;A](https://www.youtube.com/watch?v=6kRbi2OOQEw)
 - [How to create Custom Local Avatars for PS4 &lpar;on 9.00 Jailbreak&rpar;](https://www.youtube.com/watch?v=DN6Nz2eLjaE)
-- [PS4 Homebrew Scene News - Ep. 2 - PS4 9.00 Jailbreak &lpar;Sega Saturn, 60 FPS, iOS Payload Sender&rpar;](https://www.youtube.com/watch?v=vFIWTeHVYxM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
