@@ -12,7 +12,7 @@ I work at Microsoft on security, compliance and identity. I also live stream top
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [PS4 9.00 Homebrew Live Stream](https://www.youtube.com/watch?v=GAK8wPLt4Tw)
+- [PS4 9.00 Homebrew Q+A Live Stream #ps4 #ps4homebrew](https://www.youtube.com/watch?v=GAK8wPLt4Tw)
 - [Copy your PS4 Saves Games to ANOTHER PS4! JAILBREAK required #ps4 #ps4jailbreak](https://www.youtube.com/watch?v=yv2JDc3kzsk)
 - [Get YOUR Digital PSN Content BACK on your Jailbroken PS4 Console #ps4homebrew](https://www.youtube.com/watch?v=P9qnJhSoRRA)
 - [PS4 Homebrew Scene News - Ep. 3 - PS4 9.00 Jailbreak &lpar;GTA5 60 FPS, PS VR2? Replace Game Icons&rpar;](https://www.youtube.com/watch?v=2KBpOsa0s_4)
