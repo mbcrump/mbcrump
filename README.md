@@ -12,7 +12,7 @@ I work at Microsoft on security, compliance and identity. I also live stream top
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Making sense out of the latest PS4 CFW | PS4 Jailbreak](https://www.youtube.com/watch?v=8rUHd8kcsqw)
+- [Making sense out of the latest PS4 CFW EMC | PS4 Jailbreak](https://www.youtube.com/watch?v=8rUHd8kcsqw)
 - [Apply masks to your PS4 System and Game Icons! &lpar;Jailbreak Required!&rpar; #shorts](https://www.youtube.com/watch?v=I0EIaCMnP1M)
 - [Save Hard Disk Drive space on your Jailbroken PS4 with PkgRipper!](https://www.youtube.com/watch?v=G5ig-S8D_ig)
 - [PS4 9.00 Jailbreak Q+A | Homebrew News](https://www.youtube.com/watch?v=rivQ6NKD74c)
