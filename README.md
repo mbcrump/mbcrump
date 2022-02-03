@@ -11,6 +11,12 @@ I work at Microsoft on security, compliance and identity. I also live stream top
 
 ### 📺 Latest YouTube Videos
 
+<div align="center">
+
+[<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/c/mbcrump?sub_confirmation=1)
+
+</div>
+
 <!-- YOUTUBE:START -->
 - [NEW GoldHEN v2.1 is out! Learn what&#39;s new and see it in action! | PS4 Jailbreak](https://www.youtube.com/watch?v=rtgdrtGasa0)
 - [Making sense out of the latest PS4 CFW EMC | PS4 Jailbreak](https://www.youtube.com/watch?v=8rUHd8kcsqw)
