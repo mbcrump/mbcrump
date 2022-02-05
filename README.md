@@ -18,11 +18,11 @@ I work at Microsoft on security, compliance and identity. I also live stream top
 </div>
 
 <!-- YOUTUBE:START -->
+- [Dying Light 2 Developer Cheat Mode for PS4 Jailbreak is now out! #shorts](https://www.youtube.com/watch?v=20KpwBHpcQI)
 - [Infinite stamina cheat for Dying Light 2 - Jailbreak Required!](https://www.youtube.com/watch?v=oCnBhmW3Exk)
 - [NEW GoldHEN v2.1 is out! Learn what&#39;s new and see it in action! | PS4 Jailbreak](https://www.youtube.com/watch?v=rtgdrtGasa0)
 - [Making sense out of the latest PS4 CFW EMC | PS4 Jailbreak](https://www.youtube.com/watch?v=8rUHd8kcsqw)
 - [Apply masks to your PS4 System and Game Icons! &lpar;Jailbreak Required!&rpar; #shorts](https://www.youtube.com/watch?v=I0EIaCMnP1M)
-- [Save Hard Disk Drive space on your Jailbroken PS4 with PkgRipper!](https://www.youtube.com/watch?v=G5ig-S8D_ig)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
