@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [Top 10 PlayStation 5 HARDWARE Tips, Tricks, and FACTS everyone should know!](https://www.youtube.com/watch?v=zTyoVUXykmE)
 - [What&#39;s the right way to insert a PS5 disk? #shorts #PlayStation](https://www.youtube.com/watch?v=jG4VnslbonM)
 - [Unboxing the PlayStation 5 and configuring it for future homebrew](https://www.youtube.com/watch?v=A070F_8XY0M)
 - [Dying Light 2 Developer Cheat Mode for PS4 Jailbreak is now out! #shorts](https://www.youtube.com/watch?v=20KpwBHpcQI)
 - [Infinite stamina cheat for Dying Light 2 - Jailbreak Required!](https://www.youtube.com/watch?v=oCnBhmW3Exk)
-- [NEW GoldHEN v2.1 is out! Learn what&#39;s new and see it in action! | PS4 Jailbreak](https://www.youtube.com/watch?v=rtgdrtGasa0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
