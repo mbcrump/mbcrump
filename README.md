@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [Icon Mask for PS4 Homebrew allows you to style your icons and use custom ones with just a click!](https://www.youtube.com/watch?v=_2k1-QaJfPs)
 - [2/13/22 - PS4 9.00 Jailbreak Q+A | Homebrew News](https://www.youtube.com/watch?v=0Tw4LAgKWV8)
 - [New GoldHEN v2.1.1 is out! What did it fix? Find out now | PS4 Jailbreak](https://www.youtube.com/watch?v=OMhq93-K1lw)
 - [Exploring and running the latest exploits on the PS4 9.50 Beta 3](https://www.youtube.com/watch?v=N5Ap4b_yDtI)
 - [Media Apps for Jailbroken PS4&#39;s &lpar;Netflix, Amazon, Hulu, MP4/MPK Videos on USB + subtitles&rpar;](https://www.youtube.com/watch?v=mIA4XS6U3aw)
-- [Top 10 PlayStation 5 HARDWARE Tips, Tricks, and FACTS everyone should know!](https://www.youtube.com/watch?v=zTyoVUXykmE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
