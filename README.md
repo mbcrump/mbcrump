@@ -16,7 +16,7 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
-- [PlayStation Homebrew News - Ep. 4 covering &lpar;ESP32-S2 Web Installer, PS5 4.51, Vita on Switch?&rpar;](https://www.youtube.com/watch?v=HRtQAvu08_E)
+- [#PlayStation 4 Homebrew News &lpar;#ESP32-S2 Web Installer, #PS5 4.51, Vita on #Switch?&rpar;](https://www.youtube.com/watch?v=HRtQAvu08_E)
 - [Game Patches, Blocking System Updates &amp; a Web Browser on PS5 4.03](https://www.youtube.com/watch?v=Pr0d7LMPmtY)
 - [3/6/21 - PS4 9.00 Jailbreak Q+A |  ASK ME ANYTHING](https://www.youtube.com/watch?v=G8JNC9ciWxc)
 - [What does the recent 9.03 game patches mean for the future of PS4 Homebrew?](https://www.youtube.com/watch?v=84iAkMrYVvQ)
