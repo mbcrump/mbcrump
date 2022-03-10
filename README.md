@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [New GoldHEN v2.2 is out! GAME CHEATS BAKED IN and More! | PS4 Jailbreak](https://www.youtube.com/watch?v=wUhHkyplTFk)
 - [#PlayStation 4 Homebrew News &lpar;#ESP32-S2 Web Installer, #PS5 4.51, Vita on #Switch?&rpar;](https://www.youtube.com/watch?v=HRtQAvu08_E)
 - [Game Patches, Blocking System Updates &amp; a Web Browser on PS5 4.03](https://www.youtube.com/watch?v=Pr0d7LMPmtY)
 - [3/6/21 - PS4 9.00 Jailbreak Q+A |  ASK ME ANYTHING](https://www.youtube.com/watch?v=G8JNC9ciWxc)
 - [What does the recent 9.03 game patches mean for the future of PS4 Homebrew?](https://www.youtube.com/watch?v=84iAkMrYVvQ)
-- [Unlock Hidden #PS4 FEATURES &amp; MENU ITEMS with  these PS4 button combos!](https://www.youtube.com/watch?v=Z_U1Fs0HgUA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
