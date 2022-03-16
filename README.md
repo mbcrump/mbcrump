@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [PS4 9.50 Beta 4 is out! Let&#39;s take a look and try known web exploits.](https://www.youtube.com/watch?v=UZv2y6cHUfU)
 - [GoldHEN Cheats Manager BACKED by SiSTR0 v0.5.0 OUT NOW](https://www.youtube.com/watch?v=DNWU-DMeLHs)
 - [4 ways to install CHEATS for GoldHEN v2.2! | PS4 Jailbreak](https://www.youtube.com/watch?v=V8b9VfaAIaA)
 - [GoldHEN v2.2 | What does tty redirect to klog mean? | PS4 Jailbreak](https://www.youtube.com/watch?v=w8bv2PVbtkQ)
 - [New GoldHEN v2.2 is out! GAME CHEATS BAKED IN and More! | PS4 Jailbreak](https://www.youtube.com/watch?v=wUhHkyplTFk)
-- [#PlayStation 4 Homebrew News &lpar;#ESP32-S2 Web Installer, #PS5 4.51, Vita on #Switch?&rpar;](https://www.youtube.com/watch?v=HRtQAvu08_E)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
