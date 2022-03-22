@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [GoldHEN v2.2.1 is out! Improved cheat support and more! | PS4 Jailbreak](https://www.youtube.com/watch?v=YNawvZNQq5k)
 - [3/19/22 - PS4 9.00 Jailbreak Q+A  + PS Vita| Homebrew News](https://www.youtube.com/watch?v=ENv1LsCJ0S8)
 - [How to Jailbreak your PlayStation Vita in about 10 Minutes | Most Recent Method](https://www.youtube.com/watch?v=7yvcRhnkF40)
 - [What Open Source Software does the PS5 use? &lpar;hint: Apple, Mozilla, Google, Microsoft &amp; more&rpar;](https://www.youtube.com/watch?v=nWhacL_e2JM)
 - [PS4 9.50 Beta 4 is out! Let&#39;s take a look and try known web exploits.](https://www.youtube.com/watch?v=UZv2y6cHUfU)
-- [GoldHEN Cheats Manager BACKED by SiSTR0 v0.5.0 OUT NOW](https://www.youtube.com/watch?v=DNWU-DMeLHs)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
