@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
-- [4/3/22 - PS4 9.00 Jailbreak Q+A | Homebrew News](https://www.youtube.com/watch?v=VU_uK0POt3c)
 - [Create your own PlayStation Vita Dock on the cheap! &lpar;Jailbreak Required&rpar;](https://www.youtube.com/watch?v=XKsKNd9qYBk)
 - [#PlayStation 4 Homebrew News &lpar;PS4 9.50, PS5 5.00, GoldHen v2.2.2, Zelda on PS4&rpar;](https://www.youtube.com/watch?v=y9s_p7YE-2s)
 - [The #PlayStation Homebrew Scene owes you ABSOLUTELY nothing](https://www.youtube.com/watch?v=Jjvot0wbxiQ)
 - [GoldHEN v2.2.1 is out! Improved cheat support and more! | PS4 Jailbreak](https://www.youtube.com/watch?v=YNawvZNQq5k)
+- [3/19/22 - PS4 9.00 Jailbreak Q+A  + PS Vita| Homebrew News](https://www.youtube.com/watch?v=ENv1LsCJ0S8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
