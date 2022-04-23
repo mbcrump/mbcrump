@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [How to make a PS4 Payload from Scratch! [To use with PS4 Homebrew]](https://www.youtube.com/watch?v=1hwJ6exYZx8)
 - [How to update your PS5 DualSense Wireless Controller via PC](https://www.youtube.com/watch?v=DRgtUwhWOwY)
 - [What is MagicUSB for PS4 Homebrew?](https://www.youtube.com/watch?v=qna6gQwm63s)
 - [Make your PlayStation 3 XMB look like the PlayStation 4 Dashboard](https://www.youtube.com/watch?v=TOF3OiQx_Mk)
 - [FREE PlayStation 4 &lpar;PS4&rpar; Themes for Jailbroken Users | 13GB WORTH and OVER 800 to pick from!](https://www.youtube.com/watch?v=wVWy54m-8P4)
-- [How to downgrade PS4 9.50 Beta software to the previous version of the system software](https://www.youtube.com/watch?v=PmykqOHy-GI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
