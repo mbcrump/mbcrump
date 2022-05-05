@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [Learn how to back up PS4 Games, Patches and DLC on your HDD with PKG-BackUP!](https://www.youtube.com/watch?v=CKx_dzRdhNk)
 - [Jailbreak your LG WebOS Based TV and enjoy the Homebrew Channel](https://www.youtube.com/watch?v=hsqYOoiT12Y)
 - [Is it time to start paying for PS4 Homebrew? Answer: NO!](https://www.youtube.com/watch?v=R3OKxYLiYUA)
 - [Is there a built-in backdoor in PS5 5.xx system software? New VRR option feels like there is!](https://www.youtube.com/watch?v=s9KxS1jTUlE)
 - [How to make a PS4 Payload from Scratch! [To use with PS4 Homebrew]](https://www.youtube.com/watch?v=1hwJ6exYZx8)
-- [How to update your PS5 DualSense Wireless Controller via PC](https://www.youtube.com/watch?v=DRgtUwhWOwY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
