@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [BD-JB Presentation Video &amp; FTP now available, Astro&#39;s Playroom dumped? &amp; GoldHen v2.3b1 sneak peek](https://www.youtube.com/watch?v=SFsNreadp1I)
 - [Userland Blu-Ray ISO &quot;Testing&quot; Images available for PS4 and PS5](https://www.youtube.com/watch?v=8jEG-pq2sXs)
 - [Testing Blu-Play WITHOUT a Blu-Ray Burner &lpar;on PS3&rpar;](https://www.youtube.com/watch?v=QZR_zKsLfOM)
 - [Blu-Play Testing on the PS5 &lpar;Doom and Pong&rpar;](https://www.youtube.com/watch?v=e5baoyh3eRY)
 - [Making sense out of the recent PS4 and PS5 disclosures by theflow0](https://www.youtube.com/watch?v=psHjBkuDvTw)
-- [PS4 + PS5 EXPLOIT by theflow0 has been DISCLOSED](https://www.youtube.com/watch?v=g8wl_hGbkZU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
