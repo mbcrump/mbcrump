@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [Run your PS2 games from the network adapter &amp; HDD with the PS2 Phat  &lpar;2022&rpar;](https://www.youtube.com/watch?v=sTICLphF0fI)
 - [Learn how to use Sony&#39;s official PSP emulation on PS4 9.00](https://www.youtube.com/watch?v=oYDRD2acCqk)
 - [Learn how to use Sony&#39;s official PSX emulation on PS4 9.00](https://www.youtube.com/watch?v=eqpBvC93gUg)
 - [Run your PS2 games from a SD card with AliExpress MX4SIO &lpar;+ working saves&rpar;](https://www.youtube.com/watch?v=FddWN1pp3pQ)
 - [Horizon Forbidden West for PS4 9.00 is HERE! &lpar;release guide, tips and tricks&rpar;](https://www.youtube.com/watch?v=et9Kf4zDWXI)
-- [Prebuilt Elden Ring 1.05 60 FPS Patch + Manual Install Instructions](https://www.youtube.com/watch?v=Y1rMffq6jgc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
