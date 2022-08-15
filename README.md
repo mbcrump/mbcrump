@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [#PlayStation Homebrew News &lpar;PS &amp; SMS Emulation, PS4 FPS Counter, PS4-Explorer 2.0, XEX on PS4?&rpar;](https://www.youtube.com/watch?v=5QsTyC9119I)
 - [Testing the new Sleirsgoevy bd-jb-ps5.iso Image](https://www.youtube.com/watch?v=nxK6HIZ6x8M)
 - [Beginner&#39;s Guide to #Picoboot for Gamecube &lpar;Tips and Tricks&rpar;](https://www.youtube.com/watch?v=xt47D3elDFM)
 - [OpenTuna: Run Homebrew &lpar;such as OPL&rpar; on Memory Cards WITHOUT FMCB or MagicGate](https://www.youtube.com/watch?v=9X67S1x91cg)
 - [Run your PS2 games from the network adapter &amp; HDD with the PS2 Phat  &lpar;2022&rpar;](https://www.youtube.com/watch?v=sTICLphF0fI)
-- [Learn how to use Sony&#39;s official PSP emulation on PS4 9.00](https://www.youtube.com/watch?v=oYDRD2acCqk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
