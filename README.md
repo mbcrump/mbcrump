@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [Calculate and Export PS4 Trophy Information for Jailbroken PS4](https://www.youtube.com/watch?v=f--l-eFf8Cs)
 - [#PlayStation Homebrew News &lpar;New Betas, PS4 Downgrade Debunked, XEX on PS4 is not happening&rpar;](https://www.youtube.com/watch?v=6rRUjVfQNJQ)
 - [#PlayStation Homebrew News &lpar;PS &amp; SMS Emulation, PS4 FPS Counter, PS4-Explorer 2.0, XEX on PS4?&rpar;](https://www.youtube.com/watch?v=5QsTyC9119I)
 - [Testing the new Sleirsgoevy bd-jb-ps5.iso Image](https://www.youtube.com/watch?v=nxK6HIZ6x8M)
 - [Beginner&#39;s Guide to #Picoboot for Gamecube &lpar;Tips and Tricks&rpar;](https://www.youtube.com/watch?v=xt47D3elDFM)
-- [OpenTuna: Run Homebrew &lpar;such as OPL&rpar; on Memory Cards WITHOUT FMCB or MagicGate](https://www.youtube.com/watch?v=9X67S1x91cg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
