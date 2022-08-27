@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [How to Easily Test PS4 Controllers &lpar;and others such as Xbox&rpar;](https://www.youtube.com/watch?v=4p3KlrPQBhg)
 - [Beware of FAKE Nintendo cartridges and learn how to spot real ones!](https://www.youtube.com/watch?v=fOynsiDSQm0)
 - [#PlayStation Homebrew News &lpar;Elden Ring Cheats, PS4 &amp; PS5 Emulation, PSVR 2&rpar;](https://www.youtube.com/watch?v=cey3atqx26U)
 - [Calculate and Export PS4 Trophy Information for Jailbroken PS4](https://www.youtube.com/watch?v=f--l-eFf8Cs)
 - [#PlayStation Homebrew News &lpar;New Betas, PS4 Downgrade Debunked, XEX on PS4 is not happening&rpar;](https://www.youtube.com/watch?v=6rRUjVfQNJQ)
-- [#PlayStation Homebrew News &lpar;PS &amp; SMS Emulation, PS4 FPS Counter, PS4-Explorer 2.0, XEX on PS4?&rpar;](https://www.youtube.com/watch?v=5QsTyC9119I)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
