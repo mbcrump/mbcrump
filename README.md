@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [GoldHEN v2.2.4 is out - What got fixed?](https://www.youtube.com/watch?v=5D_Cqs4_90g)
 - [GoldHEN v2.2.3 - Southbridge Feature for Linux Users](https://www.youtube.com/watch?v=eWlZvcExIb8)
 - [Walkthrough of GoldHEN v2.2.3 - New Features and Functionality](https://www.youtube.com/watch?v=5cH8x-Z1nvk)
 - [Find the hidden serial number of your GameCube disks #shorts](https://www.youtube.com/watch?v=g6kW42n1f1s)
 - [A comprehensive guide to every new feature of PS4Explorer 2.0](https://www.youtube.com/watch?v=qmZvWcoeqGY)
-- [#PlayStation Homebrew News &lpar;NoBD Toolkit, PS4-Xplorer 2.0 is out, PS5 Prices soar &amp; more&rpar;](https://www.youtube.com/watch?v=JUnkCjwQ3rs)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
