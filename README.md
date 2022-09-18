@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [BD-J LUA Server Implementation for PS5](https://www.youtube.com/watch?v=s3HLmgE5uKA)
 - [Brand New unpatched userland exploit within the PS2 Emulator affects PS4 and PS5 Consoles](https://www.youtube.com/watch?v=q38C26OREdk)
 - [Walkthrough of College Football Revamped v19 Installation &amp; 2022-2023 Roster Update for PS3](https://www.youtube.com/watch?v=z2bsIa_UFEg)
 - [#PlayStation Homebrew News &lpar;PS4 10.0 and PS5 6.00 Released, PS4-Xplorer 2.0 Secrets, &amp; more&rpar;](https://www.youtube.com/watch?v=PivmJhRWADs)
 - [GoldHEN v2.2.4 is out - What got fixed?](https://www.youtube.com/watch?v=5D_Cqs4_90g)
-- [GoldHEN v2.2.3 - Southbridge Feature for Linux Users](https://www.youtube.com/watch?v=eWlZvcExIb8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
