@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [DEMO: PS5 4.03 Kernel Exploit](https://www.youtube.com/watch?v=zLNR_intTXQ)
 - [Walkthrough of GoldHEN v2.2.5b2 - NEW FPS COUNTER!](https://www.youtube.com/watch?v=LZo6XHl3sP4)
 - [The java-bsd-ipv6-uaf Github Repo is for FREEBSD 12 NOT PS5](https://www.youtube.com/watch?v=7BxQVNUSxPk)
 - [An easy to understand guide to the recent PS4 and PS5 disclosures by theflow0](https://www.youtube.com/watch?v=LMnZyWYfYss)
 - [Easily access through FTP or PS4 Explorer your saved PS4 Screenshots and Videos &lpar;Jailbreak Req&rpar;](https://www.youtube.com/watch?v=_4cjy-h2pb8)
-- [#PlayStation Homebrew News &lpar;Scanlines in GoldHen, BD-J LUA Server, GTA6 Leaks, &amp; more&rpar;](https://www.youtube.com/watch?v=MaqhTFxHdiE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
