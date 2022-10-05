@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [10/04/22 - PS5 4.03/4.50 Kernel Exploit | Homebrew News](https://www.youtube.com/watch?v=l4y_bfCKlbk)
 - [Create a LOCAL host to serve up the PS5 4.03/4.50 Exploit](https://www.youtube.com/watch?v=VwPPEnyiz38)
 - [Does OMSK or IDU Demo Disk work with the latest PS5 Kernel Exploit? No](https://www.youtube.com/watch?v=yrJ8bAlMQ78)
 - [P.T. is NOT Playable with the latest PS5 Kernel Exploit](https://www.youtube.com/watch?v=Qe3uzvs1CII)
 - [DEMO: PS5 4.03 Kernel Exploit](https://www.youtube.com/watch?v=zLNR_intTXQ)
-- [Walkthrough of GoldHEN v2.2.5b2 - NEW FPS COUNTER!](https://www.youtube.com/watch?v=LZo6XHl3sP4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
