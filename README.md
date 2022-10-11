@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [FTP Server is HERE for PS5 Webkit](https://www.youtube.com/watch?v=loaYZWOSPHE)
 - [Create the Debug Setting Shortcut on a PS5](https://www.youtube.com/watch?v=9JUee-h5P2g)
 - [Exploring the new ELF Loader on PS5](https://www.youtube.com/watch?v=wa8dU6JHYmc)
 - [20 Places to Explore After Gaining Access to the PS5 FTP Server](https://www.youtube.com/watch?v=gP4JjkuGh-I)
 - [Setting up an FTP Server and viewing PS5 Game Disks with BD-JB on PS5 4.03](https://www.youtube.com/watch?v=mhR5FFUAmNU)
-- [10/04/22 - PS5 4.03/4.50 Kernel Exploit | Homebrew News](https://www.youtube.com/watch?v=l4y_bfCKlbk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
