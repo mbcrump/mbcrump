@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [PS5 3.x WebKit Kernel Access - Debug Settings, FTP, and more!](https://www.youtube.com/watch?v=JslsLqRAk0Y)
 - [On PS5 3.20 - arbitrary r/w achieved with BD-JB](https://www.youtube.com/watch?v=2T1rhvlO3f4)
 - [Easier access to a Web Browser and Hosts via Notification on PS5](https://www.youtube.com/watch?v=6nCrzSuV4TU)
 - [FTP Server is HERE for PS5 Webkit](https://www.youtube.com/watch?v=loaYZWOSPHE)
 - [Create the Debug Setting Shortcut on a PS5](https://www.youtube.com/watch?v=9JUee-h5P2g)
-- [Exploring the new ELF Loader on PS5](https://www.youtube.com/watch?v=wa8dU6JHYmc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
