@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [Create your own OFFLINE PS5 3.x/4.x Server with the ESP8266 Device](https://www.youtube.com/watch?v=QjMQaRAO-aI)
 - [#PlayStation  Homebrew News &lpar;New PS4 Homebrew Apps/Games,  PS5 Error Codes, PS VR2 Manual, &amp; more&rpar;](https://www.youtube.com/watch?v=RavVB5tpRec)
 - [I updated my PS4 to 10.01](https://www.youtube.com/watch?v=z3xOM8zwsEg)
 - [Add a Web Browser Shortcut to your PS5 Home Menu](https://www.youtube.com/watch?v=j83RU6rNR90)
 - [PS5 PUP Decryptor and Unpacker OUT Now!](https://www.youtube.com/watch?v=M9xVCjyc1eQ)
-- [Backing up PS5 Game Discs on PS5 3.x and 4.x](https://www.youtube.com/watch?v=xekttYk8PWA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
