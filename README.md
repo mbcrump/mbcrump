@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [HUGE PS5 Update &lpar;PS5 1.02 WebKit, Persistent FTP, PS5 Payload SDK, Side Load Astro&#39;s Playroom&rpar;](https://www.youtube.com/watch?v=yy9kMUgUhpI)
 - [Set your Date and Time on a PS4 &lpar;Jailbroken&rpar; from Sony WITHOUT updating the Firmware](https://www.youtube.com/watch?v=mJpDg4pfgtg)
 - [Jailbreak Advise for EVERY PS4 or PS5 Firmware](https://www.youtube.com/watch?v=O9kjbzN8Sro)
 - [Explore the Redis Server Running on your PS5](https://www.youtube.com/watch?v=I72yP7Nb54Q)
 - [#PlayStation  Homebrew News &lpar;MW2 PS5 Disc is 70MB?,  Every PS2 Manual, New PS4-XPLORER, &amp; more&rpar;](https://www.youtube.com/watch?v=BbqgjUKcsoY)
-- [Create your own OFFLINE PS5 3.x/4.x Server with the ESP8266 Device](https://www.youtube.com/watch?v=QjMQaRAO-aI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
