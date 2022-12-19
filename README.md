@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [2022 is almost over; here&#39;s to a GREAT 2023 together!](https://www.youtube.com/watch?v=Gk7ilxE4H2Q)
 - [A couple of quick PS5 Exploit News updates](https://www.youtube.com/watch?v=4z-okqYTRU8)
 - [New PS4 homebrew - PS4 FTP CLIENT! Full setup guide!](https://www.youtube.com/watch?v=QNX-7ph8N0Q)
 - [#PlayStation  Homebrew News &lpar;Revert PS4 Firmware, PS4 Emulator, PS5 SKU Models &amp; more&rpar;](https://www.youtube.com/watch?v=gHifHpquN6E)
 - [Walkthrough of GoldHEN v2.2.5b8 - NEW SCANLINES and Game Debug Settings!](https://www.youtube.com/watch?v=dAKcstR7ydA)
-- [How to determine if a PS5 Game Disc will play on your PS5 &lpar;3.x/4.x&rpar;](https://www.youtube.com/watch?v=vPZ3PdS2Q9k)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
