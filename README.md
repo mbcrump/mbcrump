@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [Get Setup in Minutes with GoldHEN v2.3 and my PRECONFIGURED GoldHen Files Package](https://www.youtube.com/watch?v=6x82cRvpadM)
 - [#PlayStation  Homebrew News &lpar;PS4 FTP Client, Spotify on PS4/5, PS5 BD-JB Updates &amp; more&rpar;](https://www.youtube.com/watch?v=EI9fKJ9307I)
 - [Backup PS5 Game Saves!](https://www.youtube.com/watch?v=CTrWVghjSwE)
 - [2022 is almost over; here&#39;s to a GREAT 2023 together!](https://www.youtube.com/watch?v=Gk7ilxE4H2Q)
 - [A couple of quick PS5 Exploit News updates](https://www.youtube.com/watch?v=4z-okqYTRU8)
-- [New PS4 homebrew - PS4 FTP CLIENT! Full setup guide!](https://www.youtube.com/watch?v=QNX-7ph8N0Q)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
