@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [New Updates to McCaulay&#39;s mast1c0re elf and PS2 game loader](https://www.youtube.com/watch?v=BpCj7qhfaqk)
 - [Install a super FAST PS4 9.00 Web Host to the ESP32-S2 device](https://www.youtube.com/watch?v=FteGc33nmAg)
 - [Discussing McCaulay&#39;s latest changes to the mast1c0re framework](https://www.youtube.com/watch?v=P6nb2T6d5Ec)
 - [Loading PS2 Game ISOs through the Okage Save Game Exploit](https://www.youtube.com/watch?v=lotK6E6KA5s)
 - [Creating McCaulay&#39;s &quot;Hello PS4/5&quot; with Save Wizard](https://www.youtube.com/watch?v=khyGy9rrXCA)
-- [Bonus Episode: PS5 WebKit Update and SiSTRo Releases a PS5-Versions ELF](https://www.youtube.com/watch?v=-h_i7ENzJYM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
