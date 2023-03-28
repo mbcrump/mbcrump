@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [GoldHEN v2.4b5 is OUT! What&#39;s New? Look inside!](https://www.youtube.com/watch?v=CbSGT7sbmQY)
 - [2 Easy Ways to Cheat in Resident Evil 4 Remake for PlayStation 4](https://www.youtube.com/watch?v=QDeDoOsmi0M)
 - [Cturt Leaves the PlayStation scene. My thoughts on the matter.](https://www.youtube.com/watch?v=ExmSifWZt8Q)
 - [Add the Homebrew Store through the PS4 Web Browser - No USB required](https://www.youtube.com/watch?v=82bgjSvRmns)
 - [#PlayStation Homebrew News &lpar;PS4 10.50/PS5 7.01 FW Released, mast1c0re Updates &amp; more&rpar;](https://www.youtube.com/watch?v=HsMLMbNgRe4)
-- [Updates to McCaulay&#39;s mast1c0re and emu config support](https://www.youtube.com/watch?v=1TPrqZMtCIM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
