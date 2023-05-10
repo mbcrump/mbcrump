@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [#PlayStation Homebrew News &lpar;PS5 Nor Modifier, PSVR2 Advancements, &amp; more&rpar;](https://www.youtube.com/watch?v=W0w5EOO9x90)
 - [I ran it.](https://www.youtube.com/watch?v=Hpl-DPcYpPA)
 - [What if we had a PS4 10.50 Kernel Jailbreak?](https://www.youtube.com/watch?v=mPJLq6lB7AA)
 - [Jailbreak Advise for EVERY PS4 or PS5 Firmware &lpar;Revision 2&rpar;](https://www.youtube.com/watch?v=ipZhA1Q4H3s)
 - [#PlayStation Homebrew News &lpar;New GoldHen, PlayStation Mouse, sleirsgoevy is active, &amp; more&rpar;](https://www.youtube.com/watch?v=N6L4pNcKBU8)
-- [How to clone an Xbox 360 Slim HDD to another HDD  &lpar;Easiest Method 2023&rpar;](https://www.youtube.com/watch?v=dGg3Uc_r6OU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
