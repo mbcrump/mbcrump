@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [PS5 Homebrew News - All about Boot ROMs!](https://www.youtube.com/watch?v=h3eP84rQpis)
 - [Hogwarts Legacy for PS4 - How to install DLC](https://www.youtube.com/watch?v=ZkA9iwEVNHg)
 - [#PlayStation Homebrew News &lpar;PS5 Nor Modifier, PSVR2 Advancements, &amp; more&rpar;](https://www.youtube.com/watch?v=W0w5EOO9x90)
 - [I ran it.](https://www.youtube.com/watch?v=Hpl-DPcYpPA)
 - [What if we had a PS4 10.50 Kernel Jailbreak?](https://www.youtube.com/watch?v=mPJLq6lB7AA)
-- [Jailbreak Advise for EVERY PS4 or PS5 Firmware &lpar;Revision 2&rpar;](https://www.youtube.com/watch?v=ipZhA1Q4H3s)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
