@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [Exploring Game Dumping on PS5 with Sleirsgoevy&#39;s v2 host](https://www.youtube.com/watch?v=bOF0h4awgF8)
 - [HUGE PS5 JAILBREAK NEWS! Sleirsgoevy is BACK!](https://www.youtube.com/watch?v=PA8Tpk2HVxY)
 - [An update on mast1c0re from McCaulay himself](https://www.youtube.com/watch?v=2cMiUX-ORqw)
 - [PS5 Homebrew News - All about Boot ROMs!](https://www.youtube.com/watch?v=h3eP84rQpis)
 - [Hogwarts Legacy for PS4 - How to install DLC](https://www.youtube.com/watch?v=ZkA9iwEVNHg)
-- [#PlayStation Homebrew News &lpar;PS5 Nor Modifier, PSVR2 Advancements, &amp; more&rpar;](https://www.youtube.com/watch?v=W0w5EOO9x90)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
