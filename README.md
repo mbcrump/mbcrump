@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [Updates regarding the new PS4 Syscon Flasher](https://www.youtube.com/watch?v=tfwM09Uqv6A)
 - [This new PS4 Syscon Flasher everyone&#39;s talking about](https://www.youtube.com/watch?v=iahrOxXtH3s)
 - [GoldHEN v2.4b14 is Out! What&#39;s New?](https://www.youtube.com/watch?v=JA_FqZSBfos)
 - [What is the PoC everyone is talking about?](https://www.youtube.com/watch?v=Lapj8KhGgKw)
 - [NEW PS4 Permanent Notifications Tool](https://www.youtube.com/watch?v=5mjclzTsipg)
-- [#PlayStation Homebrew News &lpar;PS4 Profile, Specter&#39;s Slides &amp; more&rpar;](https://www.youtube.com/watch?v=sThCSlKNWDI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
