@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [What Is the Minimum Firmware Version Your Jailbroken PS4 Can Go Back To using PS4 Wee Tools](https://www.youtube.com/watch?v=plwD3nvYLOY)
 - [Register as a Xbox Dev if you want to run UWP Apps for old consoles](https://www.youtube.com/watch?v=l77gjREJhZ8)
 - [Got PS4 10.50? Do you want to customize it? Come Inside!](https://www.youtube.com/watch?v=tXMFnjsgr-Y)
 - [Updates regarding the new PS4 Syscon Flasher](https://www.youtube.com/watch?v=tfwM09Uqv6A)
 - [This new PS4 Syscon Flasher everyone&#39;s talking about](https://www.youtube.com/watch?v=iahrOxXtH3s)
-- [GoldHEN v2.4b14 is Out! What&#39;s New?](https://www.youtube.com/watch?v=JA_FqZSBfos)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
