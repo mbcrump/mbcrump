@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [#PlayStation Homebrew News &lpar;PS5 8.0 and PS4 11.0 Released, mast1c0re Updated &amp; more&rpar;](https://www.youtube.com/watch?v=Nu0m57YOoWs)
 - [6 Tips and Tricks for using 60 FPS Patches on PS5!](https://www.youtube.com/watch?v=9IEbemGtiXs)
 - [Quickly add Shortcuts to the Internet Browser and more to your PS5 Home Screen](https://www.youtube.com/watch?v=RcKFXITpzEw)
 - [ACTIVATE PS5 60 FPS PATCHES FROM START TO FINISH](https://www.youtube.com/watch?v=XQ4UEdqhjlo)
 - [Busting open the Wii U &#39;s USB Host Stack With a Raspberry Pi Pico](https://www.youtube.com/watch?v=63wSAMB_Kzs)
-- [Update your PS5 Game Disc Up to your Latest System Software Version](https://www.youtube.com/watch?v=wD7c5_o1H-8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
