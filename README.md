@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [Using frankenELF on SpecterDev&#39;s PS5 Host](https://www.youtube.com/watch?v=YBRRZ4uO-Ww)
 - [5 New Updates for PS4 FPKGS running on PS5 4.03](https://www.youtube.com/watch?v=Dj3yPayhS7Q)
 - [Tons of NEW updates for PS4 FPKGS running on PS5 4.03 &lpar;updated host, learn how to merge pkgs, etc.&rpar;](https://www.youtube.com/watch?v=GB1Rxh3mlVE)
 - [Run PS4 FPKGS on a PS5 4.03 - RIGHT NOW!](https://www.youtube.com/watch?v=8-vuFoAi60g)
 - [#PlayStation Homebrew News &lpar;PS4 fpkgs on PS5 , PS5 IDU Kiosk USB &amp; more&rpar;](https://www.youtube.com/watch?v=j8geZpPAqYs)
-- [#PlayStation Homebrew News &lpar;theflow0 warns us not to update, Mounting PS4 HDD On Windows &amp; more&rpar;](https://www.youtube.com/watch?v=aJB_y_6Nbyo)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
