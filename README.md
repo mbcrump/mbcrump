@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [CoD MWIII: Unlock Everything in Local Multiplayer &lpar;JB PS4 Users Only&rpar;](https://www.youtube.com/watch?v=W3Pd93LNN-g)
 - [#PlayStation Homebrew News &lpar;PS4 11.02, PS5 8.40 Released, PS5 Pro Specs, PS5 UART Reader &amp; more&rpar;](https://www.youtube.com/watch?v=BlOU0nWWDVQ)
 - [PsFree: Let&#39;s Talk About it](https://www.youtube.com/watch?v=AiUrcQsevyU)
 - [PS5Debug is here! Here&#39;s what you need to know!](https://www.youtube.com/watch?v=wELLqIb7hVM)
 - [Host the PS5 JB with Payloads OFFLINE with this PS5 FPKG](https://www.youtube.com/watch?v=o8xm7xXQB28)
-- [#PlayStation Homebrew News &lpar;PS5 Slim Disc Drive, PS5 Game Backups, A new PS4 Homebrew App, &amp; more&rpar;](https://www.youtube.com/watch?v=Sj7nw_PG4nw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
