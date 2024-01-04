@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [PS5 Game Backups have arrived on 3.x! Learn how to check which games are compatible!](https://www.youtube.com/watch?v=SmicG2yUAZE)
 - [Everything I know so far about PS5 Game Backups](https://www.youtube.com/watch?v=qp62IvGNuec)
 - [PS5 BACKUPS HAVE ARRIVED on PS5 4.03/4.50/4.51 FIRMWARES](https://www.youtube.com/watch?v=zr504i37lMw)
 - [CoD MWIII: Unlock Everything in Local Multiplayer &lpar;JB PS4 Users Only&rpar;](https://www.youtube.com/watch?v=W3Pd93LNN-g)
 - [#PlayStation Homebrew News &lpar;PS4 11.02, PS5 8.40 Released, PS5 Pro Specs, PS5 UART Reader &amp; more&rpar;](https://www.youtube.com/watch?v=BlOU0nWWDVQ)
-- [PsFree: Let&#39;s Talk About it](https://www.youtube.com/watch?v=AiUrcQsevyU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
