@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [How to setup your ESP8266 Device to Self Host JB and etaHEN payload](https://www.youtube.com/watch?v=29l3DRQo_UI)
 - [Automatically launch Itemzflow from etaHEN](https://www.youtube.com/watch?v=PWLMCmpvaOU)
 - [PS5 Game Backups have arrived on 3.x! Learn how to check which games are compatible!](https://www.youtube.com/watch?v=SmicG2yUAZE)
 - [Everything I know so far about PS5 Game Backups](https://www.youtube.com/watch?v=qp62IvGNuec)
 - [PS5 BACKUPS HAVE ARRIVED on PS5 4.03/4.50/4.51 FIRMWARES](https://www.youtube.com/watch?v=zr504i37lMw)
-- [CoD MWIII: Unlock Everything in Local Multiplayer &lpar;JB PS4 Users Only&rpar;](https://www.youtube.com/watch?v=W3Pd93LNN-g)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
