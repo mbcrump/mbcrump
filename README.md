@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [PS5-Xplorer 1.01 is OUT and Includes Translation and Avatar Support!](https://www.youtube.com/watch?v=d1kfM_dthyQ)
 - [#PlayStation Homebrew News &lpar;PS4 11.50 Beta, PS5-Xplorer, $50,000 bounty &amp; more&rpar;](https://www.youtube.com/watch?v=ic_f2bhcgKQ)
 - [How to setup your ESP8266 Device to Self Host JB and etaHEN payload](https://www.youtube.com/watch?v=29l3DRQo_UI)
 - [Automatically launch Itemzflow from etaHEN](https://www.youtube.com/watch?v=PWLMCmpvaOU)
 - [PS5 Game Backups have arrived on 3.x! Learn how to check which games are compatible!](https://www.youtube.com/watch?v=SmicG2yUAZE)
-- [Everything I know so far about PS5 Game Backups](https://www.youtube.com/watch?v=qp62IvGNuec)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
