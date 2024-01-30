@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [Automatically Update Your Discord Presence From Your JB PS5](https://www.youtube.com/watch?v=ZVvUySq5myA)
 - [PS5 Backports: Let’s Talk About It](https://www.youtube.com/watch?v=6VS_iZ5SCLM)
 - [PS5-Xplorer 1.01 is OUT and Includes Translation and Avatar Support!](https://www.youtube.com/watch?v=d1kfM_dthyQ)
 - [#PlayStation Homebrew News &lpar;PS4 11.50 Beta, PS5-Xplorer, $50,000 bounty &amp; more&rpar;](https://www.youtube.com/watch?v=ic_f2bhcgKQ)
 - [How to setup your ESP8266 Device to Self Host JB and etaHEN payload](https://www.youtube.com/watch?v=29l3DRQo_UI)
-- [Automatically launch Itemzflow from etaHEN](https://www.youtube.com/watch?v=PWLMCmpvaOU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
