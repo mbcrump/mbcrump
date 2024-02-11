@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [PS4 DLC on Jailbroken PS5s are here... kinda sorta...](https://www.youtube.com/watch?v=k8yru_K0HJM)
 - [Demo: PlayStation 4/5 Kernel RCE Implementation &lpar;proof of concept&rpar;](https://www.youtube.com/watch?v=RbGOJGAD0xQ)
 - [PsFree: Two Months Later](https://www.youtube.com/watch?v=Dhh8FQxbNVo)
 - [Let&#39;s Discuss: PlayStation 4/5 Kernel RCE](https://www.youtube.com/watch?v=ffHAgM-VtzM)
 - [GoldHEN v2.4b16 is Out! What&#39;s New?](https://www.youtube.com/watch?v=BtRHzYpzoOE)
-- [Automatically Update Your Discord Presence From Your JB PS5](https://www.youtube.com/watch?v=ZVvUySq5myA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
