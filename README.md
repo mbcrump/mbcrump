@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [New etaHEN and Itemzflow released! What&#39;s New?](https://www.youtube.com/watch?v=A4EetF1Y5vU)
 - [Installing PS5 9.00 Beta 3 and Attempting Known Exploits](https://www.youtube.com/watch?v=AqoaaG2PZaU)
 - [PS4 DLC on Jailbroken PS5s are here... kinda sorta...](https://www.youtube.com/watch?v=k8yru_K0HJM)
 - [Demo: PlayStation 4/5 Kernel RCE Implementation &lpar;proof of concept&rpar;](https://www.youtube.com/watch?v=RbGOJGAD0xQ)
 - [PsFree: Two Months Later](https://www.youtube.com/watch?v=Dhh8FQxbNVo)
-- [Let&#39;s Discuss: PlayStation 4/5 Kernel RCE](https://www.youtube.com/watch?v=ffHAgM-VtzM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
