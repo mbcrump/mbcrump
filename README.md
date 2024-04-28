@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [UPDATE: GREAT NEWS for PS4 Firmware 11.0 &lpar;&amp; PS5 8.20&rpar; Users!](https://www.youtube.com/watch?v=9d-P1uXAG5A)
 - [GREAT NEWS for PS4 Firmware 11.0 &lpar;&amp; PS5 8.20&rpar; Users!](https://www.youtube.com/watch?v=HTiMSYM0DHA)
 - [Bypass PlayStation Portal Firmware Requirement](https://www.youtube.com/watch?v=7Dc9k6GGFi8)
 - [PlayStation Portal: Things are Heating UP! &lpar;and How To Get Rid of the Firmware Update Message&rpar;.](https://www.youtube.com/watch?v=axmVFuBPxCE)
 - [Unlock EVERYTHING in MK11 Ultimate for Homebrew PS5 Users](https://www.youtube.com/watch?v=cNHkBjoqJIE)
-- [Ask Me Anything - PS4/5 Homebrew Edition](https://www.youtube.com/watch?v=5nO1I6euEhY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
