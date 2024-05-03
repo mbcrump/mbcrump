@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [Enable GoldHen with PPPwn on Windows for PS4 9.00](https://www.youtube.com/watch?v=zVCOcZXWnlg)
 - [Step-by-step guide of how to run PPPwn on Windows &lpar;No VirtualBox&rpar;](https://www.youtube.com/watch?v=-_hu8sdxV9U)
 - [UPDATE: GREAT NEWS for PS4 Firmware 11.0 &lpar;&amp; PS5 8.20&rpar; Users!](https://www.youtube.com/watch?v=9d-P1uXAG5A)
 - [GREAT NEWS for PS4 Firmware 11.0 &lpar;&amp; PS5 8.20&rpar; Users!](https://www.youtube.com/watch?v=HTiMSYM0DHA)
 - [Bypass PlayStation Portal Firmware Requirement](https://www.youtube.com/watch?v=7Dc9k6GGFi8)
-- [PlayStation Portal: Things are Heating UP! &lpar;and How To Get Rid of the Firmware Update Message&rpar;.](https://www.youtube.com/watch?v=axmVFuBPxCE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
