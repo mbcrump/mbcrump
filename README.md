@@ -16,7 +16,7 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
-- [PPPwn Updates &lpar;GoldHen for PS4 11.0, Android Client, additional payloads&rpar; and more!](https://www.youtube.com/watch?v=PYieMXuKZ0M)
+- [PPPwn Updates &lpar;GoldHen for PS4 11.0. - Coming Soon, Android Client, additional payloads&rpar; and more!](https://www.youtube.com/watch?v=PYieMXuKZ0M)
 - [Enable GoldHen with PPPwn on Windows for PS4 9.00](https://www.youtube.com/watch?v=zVCOcZXWnlg)
 - [Step-by-step guide of how to run PPPwn on Windows &lpar;No VirtualBox&rpar;](https://www.youtube.com/watch?v=-_hu8sdxV9U)
 - [UPDATE: GREAT NEWS for PS4 Firmware 11.0 &lpar;&amp; PS5 8.20&rpar; Users!](https://www.youtube.com/watch?v=9d-P1uXAG5A)
