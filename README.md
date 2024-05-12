@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [My Recommended GoldHEN Settings for PS4 11.0](https://www.youtube.com/watch?v=Hc5REkl81tI)
 - [PS4 11.0 Jailbreak Q+A | Ask Me Anything](https://www.youtube.com/watch?v=cH9kynUYZho)
 - [Use a Raspberry Pi to automatically inject PPPwn on PS4 11.0](https://www.youtube.com/watch?v=RdY7w0FoUSw)
 - [Learn how to Jailbreak a PS4 11.0 in 10 Minutes](https://www.youtube.com/watch?v=YBBEyYsjhCg)
 - [PPPwn Updates &lpar;GoldHen for PS4 11.0. - Coming Soon, Android Client, additional payloads&rpar; and more!](https://www.youtube.com/watch?v=PYieMXuKZ0M)
-- [Enable GoldHen with PPPwn on Windows for PS4 9.00](https://www.youtube.com/watch?v=zVCOcZXWnlg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
