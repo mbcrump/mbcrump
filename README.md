@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [Jailbreak your LG TV &lpar;2024&rpar; and RUN PPPwn!](https://www.youtube.com/watch?v=zYoesrUsIj8)
 - [Python and PPPwn not playing nice? Try the new C++ Rewrite!](https://www.youtube.com/watch?v=GFuWbmJPbok)
 - [PS4 11.0 Jailbreak Q+A | Ask Me Anything](https://www.youtube.com/watch?v=V05HClxc20o)
 - [My Recommended GoldHEN Settings for PS4 11.0](https://www.youtube.com/watch?v=Hc5REkl81tI)
 - [PS4 11.0 Jailbreak Q+A | Ask Me Anything](https://www.youtube.com/watch?v=cH9kynUYZho)
-- [Use a Raspberry Pi to automatically inject PPPwn on PS4 11.0](https://www.youtube.com/watch?v=RdY7w0FoUSw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
