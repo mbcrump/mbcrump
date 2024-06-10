@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [What the latest with the Xbox One Exploit?](https://www.youtube.com/watch?v=sCwIZh_q7Ls)
 - [Get Your Xbox One Ready for User and Kernel-Level Code Execution](https://www.youtube.com/watch?v=MxJr586K5uo)
 - [I have the Mystery Aliexpress PPPwn Device!](https://www.youtube.com/watch?v=ch4YNiCCTZw)
 - [New payload to disable updates for a PS4 11.0](https://www.youtube.com/watch?v=F0Lk9rjaeCw)
 - [Update: Mystery PS4 PPPwn Device has arrived on Aliexpress!](https://www.youtube.com/watch?v=PWfmasttRKw)
-- [What game is this?](https://www.youtube.com/watch?v=0ugvodD6C0Q)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
