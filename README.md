@@ -16,7 +16,7 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
-- [What the latest with the Xbox One Exploit?](https://www.youtube.com/watch?v=sCwIZh_q7Ls)
+- [What&#39;s the latest with the Xbox One Exploit?](https://www.youtube.com/watch?v=sCwIZh_q7Ls)
 - [Get Your Xbox One Ready for User and Kernel-Level Code Execution](https://www.youtube.com/watch?v=MxJr586K5uo)
 - [I have the Mystery Aliexpress PPPwn Device!](https://www.youtube.com/watch?v=ch4YNiCCTZw)
 - [New payload to disable updates for a PS4 11.0](https://www.youtube.com/watch?v=F0Lk9rjaeCw)
