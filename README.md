@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [Can a 2.0.5 PlayStation Portal Still Connect to PSN?](https://www.youtube.com/watch?v=CiMiZxg2vHg)
 - [Taking a Look at PS4-HEN-VTX on an 8.50 PS4](https://www.youtube.com/watch?v=RevjxpjPTRI)
 - [Taking a look at GoldHEN Lite 1.0 for PS4 9.00](https://www.youtube.com/watch?v=7SY77OhaQHc)
 - [#PlayStation Homebrew News &lpar;PPPwn Updated, GoldHen Lite, PlayStation Portable PoC, Itemzflow Update&rpar;](https://www.youtube.com/watch?v=mfxZKRINVS8)
 - [PlayStation Portal Update From theflow0 - Proof of Concept Included](https://www.youtube.com/watch?v=jW86yNWi9mk)
-- [Xbox One Hack is no longer available](https://www.youtube.com/watch?v=M7Z5omm4AK0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
