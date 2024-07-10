@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [Retro Stream - Playing Jurassic Park Game Gear](https://www.youtube.com/watch?v=EJ2QdNdb7Wk)
 - [Taking a look at the Reverse Shell on Xbox Retail Mode](https://www.youtube.com/watch?v=G7aXA58Hwfs)
 - [#PlayStation Homebrew News &lpar;PS4HEN v2.1.5, Apollo Save Tool v1.4.5, New Smart TV Devices Supported&rpar;](https://www.youtube.com/watch?v=rBiEk5x-iqI)
 - [Luckfox Pico Mods and Cases](https://www.youtube.com/watch?v=M74mX9KQyJU)
 - [Xbox One Exploit Update and Trying the Vermintide 2 Disc](https://www.youtube.com/watch?v=DtIxt4S09Sg)
-- [I have the LATEST PS4 Aliexpress PPPwn Device!](https://www.youtube.com/watch?v=nhsXA5XM3FA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
