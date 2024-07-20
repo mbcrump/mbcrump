@@ -16,7 +16,7 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
-- [DEMO TUTORIAL: The Kernel exploit for Xbox One SystemOS](https://www.youtube.com/watch?v=NOUuoczdGVo)
+- [I Got a Reverse Shell Prompt On Xbox One. Lets Explore!](https://www.youtube.com/watch?v=NOUuoczdGVo)
 - [Is Elden Ring too hard? Make it easier with this!  &lpar;JB Console Required&rpar;](https://www.youtube.com/watch?v=lKKx2dgjZyc)
 - [Build a Playstation 4 or 5 Retail Update PKG Easier with FetchPKG](https://www.youtube.com/watch?v=oLbgBzyehog)
 - [Web Based PS5 Homebrew Launcher](https://www.youtube.com/watch?v=XhnOFEq8t7A)
