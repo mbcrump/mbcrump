@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [Use your DualSense Controller in any game on your computer, via XInput Emulation](https://www.youtube.com/watch?v=Nu2cnvgMxzs)
 - [Download and Install Permanent Themes From Your PS4 Browser! &lpar;For 9.00 PS4&rpar;](https://www.youtube.com/watch?v=a_FaVDzjQcg)
 - [Turns out they don’t ban the disc drive along with the console🫠](https://www.youtube.com/watch?v=SE-FK6clO4I)
 - [Scene Talk - Chat with Jose Coixao &lpar;@notnotzecoxao&rpar; about PlayStation Homebrew](https://www.youtube.com/watch?v=Mfs9m6c7TMg)
 - [PPPwn-Luckfox 1.2.2 is out! Linux Payloads Added!](https://www.youtube.com/watch?v=5ylc2YvrANk)
-- [Backup your PS5 Game Disc with Itemzflow](https://www.youtube.com/watch?v=HJjYSMt5VoQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
