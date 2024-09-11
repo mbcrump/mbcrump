@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [About that FreeBSD Security Advisory...](https://www.youtube.com/watch?v=I6hAzVLC-VQ)
 - [Mark Cerny and Sony out of touch with gamers](https://www.youtube.com/watch?v=DmyJpnPhipg)
 - [Sony&#39;s Disastrous PlayStation 5 Pro Announcement Today](https://www.youtube.com/watch?v=FZQHEO0NOmI)
 - [#PlayStation Homebrew News &lpar;PS5 Pro, PupFileUnpacker, Merge PKGs on a PS4 and more&rpar;](https://www.youtube.com/watch?v=ZbQRyXG2diU)
 - [About that Semi-Permanent PS4/5 Jailbreak...](https://www.youtube.com/watch?v=Ml24CCpeNME)
-- [The Best PS4 PPPwn AliExpress Device So Far!](https://www.youtube.com/watch?v=zPOXlZv8yhA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
