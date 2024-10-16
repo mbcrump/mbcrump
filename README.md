@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [PS5 Exploit Update: UMTX Code execution on 7.61 through BD-JB and more!](https://www.youtube.com/watch?v=9pa92D1CwqE)
 - [Scene Talk - Chat with Lapy &lpar;@Lapy05575948&rpar; about PlayStation Homebrew](https://www.youtube.com/watch?v=6RCeHNxq9g0)
 - [Proof of Concept for Running Lua Script from Savedata](https://www.youtube.com/watch?v=GTUAEwZAFao)
 - [#PlayStation Homebrew News &lpar;&quot;Byepervisor: How We Broke the PS5 Hypervisor &quot;Talk and more! &rpar;](https://www.youtube.com/watch?v=4JYcAjK_OUQ)
 - [DEMO: Remote JAR Loader for PS5 released using BD-J vulnerability](https://www.youtube.com/watch?v=AGiKEwFyjcQ)
-- [New PS5 Firmwares Added for the PS5 Jailbreak!](https://www.youtube.com/watch?v=8OLV2dbZ7Go)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
