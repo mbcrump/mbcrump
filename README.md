@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [A New GoldHEN v2.4 beta 18.2 is out! What&#39;s included?](https://www.youtube.com/watch?v=S1dgyPa0pjg)
 - [What&#39;s Santa bringing the PlayStation Scene for Christmas?](https://www.youtube.com/watch?v=zdDpriy87DA)
 - [How To Activate your PS5 Offline &lpar;For Remote Play, etc.&rpar;](https://www.youtube.com/watch?v=Gl6Exv87BCw)
 - [#PlayStation Homebrew News &lpar;PS5 Remote Play, Remote Lua Loader Updated, PS5 Console Docs and more! &rpar;](https://www.youtube.com/watch?v=udNjTY_7zL0)
 - [#PlayStation Homebrew News &lpar;PS5 10.40, 30th Anniversary VSH Asset, Byepervisor Video and more! &rpar;](https://www.youtube.com/watch?v=lj5rdEuQKL0)
-- [Quick Tips: How to Read the PS5 Firmware String](https://www.youtube.com/watch?v=cVe9t1mrdag)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
