@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [etaHEN 1.9b and Itemzflow 1.08 released! What&#39;s New?](https://www.youtube.com/watch?v=bszUVTeICik)
 - [Easy PKG Extractor Released for PS4-Xplorer 2.0.3](https://www.youtube.com/watch?v=h1YjmRGbO6M)
 - [A New GoldHEN v2.4 beta 18.2 is out! What&#39;s included?](https://www.youtube.com/watch?v=S1dgyPa0pjg)
 - [What&#39;s Santa bringing the PlayStation Scene for Christmas?](https://www.youtube.com/watch?v=zdDpriy87DA)
 - [How To Activate your PS5 Offline &lpar;For Remote Play, etc.&rpar;](https://www.youtube.com/watch?v=Gl6Exv87BCw)
-- [#PlayStation Homebrew News &lpar;PS5 Remote Play, Remote Lua Loader Updated, PS5 Console Docs and more! &rpar;](https://www.youtube.com/watch?v=udNjTY_7zL0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
