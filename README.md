@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [AliExpress PlayStation 30th Anniversary Edition Cloned Shells](https://www.youtube.com/watch?v=Apz-FPFgbmg)
 - [Play PS5 Backups From your M.2 SSD Internal Slot](https://www.youtube.com/watch?v=bsaRMgLQgLs)
 - [Install Retail Patches on your Jailbroken PS4/5!](https://www.youtube.com/watch?v=NZ4-WdczPRw)
 - [etaHEN 1.9b and Itemzflow 1.08 released! What&#39;s New?](https://www.youtube.com/watch?v=bszUVTeICik)
 - [Easy PKG Extractor Released for PS4-Xplorer 2.0.3](https://www.youtube.com/watch?v=h1YjmRGbO6M)
-- [A New GoldHEN v2.4 beta 18.2 is out! What&#39;s included?](https://www.youtube.com/watch?v=S1dgyPa0pjg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
