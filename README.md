@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [Loading etaHEN with BD-J is now EASIER than ever!](https://www.youtube.com/watch?v=eC55xaIuUgA)
 - [#PlayStation Homebrew News &lpar;etaHEN 2.0B, BD-J Jailbreak ISO, PS5 Serial Number Guide and more! &rpar;](https://www.youtube.com/watch?v=HLWf2OBxiSk)
 - [Jailbreaking a PS5 with BD-J is now EASIER than ever!](https://www.youtube.com/watch?v=VisXKOj2Ogw)
 - [AliExpress PlayStation 30th Anniversary Edition Cloned Shells](https://www.youtube.com/watch?v=Apz-FPFgbmg)
 - [Play PS5 Backups From your M.2 SSD Internal Slot](https://www.youtube.com/watch?v=bsaRMgLQgLs)
-- [Install Retail Patches on your Jailbroken PS4/5!](https://www.youtube.com/watch?v=NZ4-WdczPRw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
