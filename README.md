@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [PlayStation Homebrew News &lpar;etaHEN 2.0b and Itemzflow 1.09  Released!&rpar;](https://www.youtube.com/watch?v=FeXqCaHiioo)
 - [PlayStation Homebrew News &lpar;PS4 12.50 and PS5 11.0 Released, kstuff for PS5 3.00-6.50, &amp; more!&rpar;](https://www.youtube.com/watch?v=_x_-UFNoDzM)
 - [Idlesauce&#39;s UMTX2 Host is BLAZING FAST! &lpar;1.00-5.50 PS5&rpar;](https://www.youtube.com/watch?v=N8SEmZJFNf0)
 - [GoldHEN v2.4b18.3 is out! What&#39;s New?](https://www.youtube.com/watch?v=072DMkUQick)
 - [PlayStation Homebrew News &lpar;kstuff for PS5 6.50, New etaHEN 2.0 features, New Game Dumps &amp; more!&rpar;](https://www.youtube.com/watch?v=PngG_Qi2lXI)
-- [Remotely control your Jailbroken PS4 with remotePad!](https://www.youtube.com/watch?v=D6ntytVI-pY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
