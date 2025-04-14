@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [PS4/5 Jailbreak Q+A | Ask Me Anything](https://www.youtube.com/watch?v=V05HClxc20o)
 - [Jailbreak Advise for EVERY PS4 or PS5 Firmware &lpar;Revision 3&rpar;](https://www.youtube.com/watch?v=-MbA81BLfUo)
 - [UMTX2 + etaHEN For ESP Devices is HERE!](https://www.youtube.com/watch?v=DybJIrBMcSo)
 - [PlayStation Homebrew News &lpar;etaHEN 2.0b and Itemzflow 1.09  Released!&rpar;](https://www.youtube.com/watch?v=FeXqCaHiioo)
 - [PlayStation Homebrew News &lpar;PS4 12.50 and PS5 11.0 Released, kstuff for PS5 3.00-6.50, &amp; more!&rpar;](https://www.youtube.com/watch?v=_x_-UFNoDzM)
-- [Idlesauce&#39;s UMTX2 Host is BLAZING FAST! &lpar;1.00-5.50 PS5&rpar;](https://www.youtube.com/watch?v=N8SEmZJFNf0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
