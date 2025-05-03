@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [PlayStation Homebrew News &lpar;Remote LUA Loader w/ etaHEN, All-in-one BD-JB PS5 4.x to 7.x &amp; more!&rpar;](https://www.youtube.com/watch?v=0Lj-GmGpZrs)
 - [PlayStation Homebrew News &lpar;etaHEN 2.1B &amp; Itemzflow 1.10 Released &amp; more!&rpar;](https://www.youtube.com/watch?v=u_2rnlnzuC8)
 - [Testing Remote Lua Loader and Double Free on PS5 11.20!](https://www.youtube.com/watch?v=fUHUFh-I0QE)
 - [Let&#39;s Discuss: Two New PlayStation Kernel Vulnerabilities](https://www.youtube.com/watch?v=-2Ou3vaQEN8)
 - [PlayStation Homebrew News &lpar;kstuff for 7.x, kernel exploit for 10.40?, PS5 Backporter Tool &amp; more!&rpar;](https://www.youtube.com/watch?v=e2QSqiJmBi0)
-- [Lightning-Fast PS5 Jailbreak by @idlesauce &lpar;UMTX2&rpar; for PS5 1.00–5.50 Firmwares](https://www.youtube.com/watch?v=uNYDL2FLpPU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
