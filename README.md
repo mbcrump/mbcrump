@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [The New &quot;Lapse&quot; exploit! A kernel exploit for PS4 &lpar;up to 12.02&rpar; and PS5 &lpar;10.01&rpar;.](https://www.youtube.com/watch?v=9mmdBc7vwNI)
 - [The BEST “All-in-one” BD-JB ISO for PS5 4.x-7.x is HERE!](https://www.youtube.com/watch?v=BZUwt5gtgoQ)
 - [PS4/5 Jailbreak Q+A | Ask Me Anything](https://www.youtube.com/watch?v=ga7MAvPrtwM)
 - [PlayStation Homebrew News &lpar;Remote LUA Loader w/ etaHEN, All-in-one BD-JB PS5 4.x to 7.x &amp; more!&rpar;](https://www.youtube.com/watch?v=0Lj-GmGpZrs)
 - [PlayStation Homebrew News &lpar;etaHEN 2.1B &amp; Itemzflow 1.10 Released &amp; more!&rpar;](https://www.youtube.com/watch?v=u_2rnlnzuC8)
-- [Testing Remote Lua Loader and Double Free on PS5 11.20!](https://www.youtube.com/watch?v=fUHUFh-I0QE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
