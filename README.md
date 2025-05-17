@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [Loading GoldHEN with Lapse on PS4 9.00 &lpar;Early Testing / No USB&rpar;](https://www.youtube.com/watch?v=OIrEqZ4d0h4)
 - [Demo WIP: Kernel Exploit on PS4 9.00 &lpar;No USB&rpar;](https://www.youtube.com/watch?v=OBhwUEF55CI)
 - [Quick Update: PSFree and the Lapse Kernel Exploit](https://www.youtube.com/watch?v=L-2s3RDCmgc)
 - [Goodbye USB Pen Drives! &lpar;coming soon!&rpar; PSFree version 1.5.0 is here!](https://www.youtube.com/watch?v=TJShiT43d5Q)
 - [PS4/5 Jailbreak Q+A | Ask Me Anything](https://www.youtube.com/watch?v=5upSFOarl8o)
-- [PS4/5 Jailbreak Q+A | Ask Me Anything](https://www.youtube.com/watch?v=7dxItQItxc8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
