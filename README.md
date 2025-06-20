@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [Step-by-Step: Installing Lua Demos &lpar;Japanese PSN Required&rpar; on Your PS4/PS5](https://www.youtube.com/watch?v=ni5CL7PNxDc)
 - [Jailbreaking the PS4 12.02 with Apollo Save Tool and ps4_autoLL](https://www.youtube.com/watch?v=AB35DvmFG8A)
 - [The PS4 12.02 Jailbreak is Here! What you need to know.](https://www.youtube.com/watch?v=4lD33stb06A)
 - [Switch 2 Developments and Homebrew News - Episode 2](https://www.youtube.com/watch?v=T9BPV0IcQyU)
 - [Switch 2 Developments and Homebrew News](https://www.youtube.com/watch?v=YeUmbAr90yU)
-- [etaHEN v2.2b for Jailbroken PS5s is HERE! Let&#39;s DEMO all the NEW Features!](https://www.youtube.com/watch?v=Ml7hr2g-K50)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
