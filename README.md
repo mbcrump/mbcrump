@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [It&#39;s getting HOT in HERE! BD-JB for PS4 12.50 and Laps3c0re!!!](https://www.youtube.com/watch?v=DWTrTesv8S8)
 - [Update Existing RemoteLuaLoader Save Files on a Jailbroken PS4](https://www.youtube.com/watch?v=SF6MBF7q51A)
 - [Let&#39;s PIMP Our Lua Game Start Experience](https://www.youtube.com/watch?v=YSGSdOUkK8Y)
 - [GoldHEN v2.4b18.5 Public BETA is out! What&#39;s New?](https://www.youtube.com/watch?v=bewcMs62mkI)
 - [Hands-On With PS5 12.00 Beta 2: RemoteLuaLoader + DualSense Wireless Pairing](https://www.youtube.com/watch?v=ml5adNGZu5s)
-- [PlayStation Homebrew News &lpar;PS5 11.60 Kernel Exploit?, Mast1c0re + Lapse Progress, DualShock Tester&rpar;](https://www.youtube.com/watch?v=nQPFNB20PEg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
