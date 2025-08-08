@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [From Stock Xbox 360 to Aurora using Xbox360BadUpdate &lpar;Updated Stage 3&rpar; and XeUnshackle.](https://www.youtube.com/watch?v=x5SG1MENfDk)
 - [PlayStation Homebrew News &lpar;PS4 12.50 Remote Jar Loader Release, PS5 EZ Host Tool, GoldHEN v2.4b18.5&rpar;](https://www.youtube.com/watch?v=Ct-Rnb5D_6c)
 - [It&#39;s getting HOT in HERE! BD-JB for PS4 12.50 and Laps3c0re!!!](https://www.youtube.com/watch?v=DWTrTesv8S8)
 - [Update Existing RemoteLuaLoader Save Files on a Jailbroken PS4](https://www.youtube.com/watch?v=SF6MBF7q51A)
 - [Let&#39;s PIMP Our Lua Game Start Experience](https://www.youtube.com/watch?v=YSGSdOUkK8Y)
-- [GoldHEN v2.4b18.5 Public BETA is out! What&#39;s New?](https://www.youtube.com/watch?v=bewcMs62mkI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
