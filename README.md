@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [PlayStation Homebrew News &lpar;RemoteJarLoader &amp; Lapse 1.2 Released, kstuff Update, ESP32-S3 PS5 Host&rpar;](https://www.youtube.com/watch?v=joXbgnL0dtg)
 - [NEW Offline ESP32-S3 UMTX 2 Web Host for PS5 1.x/5.x with Admin Functions](https://www.youtube.com/watch?v=T5Hz1OmEunU)
 - [PlayStation Homebrew News &lpar;HENLoader Released w/ GoldHEN, HEN 2.0?, Mast1c0re Released&rpar;](https://www.youtube.com/watch?v=-rcDWWTRcZ4)
 - [New Version of the BD-JB Jailbreak for PS4 is Released! Let&#39;s explore!](https://www.youtube.com/watch?v=-Zr3Ztnw-AA)
 - [PS4 12.02 JAILBREAK IS HERE USING BD-JB! Goodbye LUA!](https://www.youtube.com/watch?v=Esj-7EuV2dc)
-- [Let&#39;s Discuss: BD-JB for PS4 12.02 Recent Developments](https://www.youtube.com/watch?v=3KaQqVXx3KQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
