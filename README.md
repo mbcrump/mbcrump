@@ -16,7 +16,7 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
-- [Step-by-Step Guide to Building a Custom BD-JB ISO with GoldHEN using Windows](https://www.youtube.com/watch?v=KzS3zbuuY9U)
+- [Step-by-Step Guide to Building a Custom BD-JB ISO using Windows](https://www.youtube.com/watch?v=KzS3zbuuY9U)
 - [PlayStation Homebrew News &lpar;RemoteJarLoader &amp; Lapse 1.2 Released, kstuff Update, ESP32-S3 PS5 Host&rpar;](https://www.youtube.com/watch?v=joXbgnL0dtg)
 - [NEW Offline ESP32-S3 UMTX 2 Web Host for PS5 1.x/5.x with Admin Functions](https://www.youtube.com/watch?v=T5Hz1OmEunU)
 - [PlayStation Homebrew News &lpar;HENLoader Released w/ GoldHEN, HEN 2.0?, Mast1c0re Released&rpar;](https://www.youtube.com/watch?v=-rcDWWTRcZ4)
