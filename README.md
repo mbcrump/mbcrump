@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [Kstuff supports up to PS5 9.60 now... just WOW!](https://www.youtube.com/watch?v=qQFZFV1e0II)
 - [PlayStation Homebrew News &lpar;Kstuff for 9.00 &amp; , ESP32-S3 PS5 Host Updates &amp; Silksong Cheats&rpar;](https://www.youtube.com/watch?v=2C8mrM0z1e4)
 - [etaHEN is NOW Open Source and 2.3B Released!](https://www.youtube.com/watch?v=0aOLhIU7ysQ)
 - [GoldHEN v2.4b18.6 Public BETA is out! What&#39;s New?](https://www.youtube.com/watch?v=eJw8ZvFHzVc)
 - [Using Kstuff 8.0 with Viktorious BD-JB ISO &amp; Run PS5 Games Through the HomeBrew Launcher](https://www.youtube.com/watch?v=riSovxr9mts)
-- [Kstuff For PS5 8.00 Released AND PS4 DLC Now Working on PS5](https://www.youtube.com/watch?v=Xd3WQPD886w)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
