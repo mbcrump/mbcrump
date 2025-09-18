@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [Updating to PS5 9.60 and Running PS4/5 Game Backups](https://www.youtube.com/watch?v=w20Nh0IG1tM)
 - [From Stock Xbox 360 to Backups with ABadAvatar! &lpar;Full Setup Guide&rpar;](https://www.youtube.com/watch?v=ZfusuI0Ywe0)
 - [Getting ready for Kstuff on PS5 10.0x!](https://www.youtube.com/watch?v=Nn8INWNT9vs)
 - [Kstuff supports up to PS5 9.60 now... just WOW!](https://www.youtube.com/watch?v=qQFZFV1e0II)
 - [PlayStation Homebrew News &lpar;Kstuff for 9.00 &amp; , ESP32-S3 PS5 Host Updates &amp; Silksong Cheats&rpar;](https://www.youtube.com/watch?v=2C8mrM0z1e4)
-- [etaHEN is NOW Open Source and 2.3B Released!](https://www.youtube.com/watch?v=0aOLhIU7ysQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
