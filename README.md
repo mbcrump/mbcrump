@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [I Bought Silent Hill F – Time to Submit it to the ProsperoPatches Game Database!](https://www.youtube.com/watch?v=Hb2Y4xdrxeg)
 - [What&#39;s ON the AliExpress PS4 9.00-12.02 Jailbreak Blu-ray?](https://www.youtube.com/watch?v=YNH-euzb7PM)
 - [This GoldHEN Plugin is a MUST-HAVE for Jailbroken PS4 Users that use YouTube](https://www.youtube.com/watch?v=wqoRBiTJhN4)
 - [YouTube Jailbreak &lpar;Y2JB&rpar; for PS5: What is it and why does it matter?](https://www.youtube.com/watch?v=XWtK4w5ATRw)
 - [PlayStation Homebrew News &lpar;PS5 12.02/PS4 13.02 Released, PSVR2 Games on 6.x to 9.x &amp; Silksong Fixed&rpar;](https://www.youtube.com/watch?v=RzQogy3KfCQ)
-- [Load Xbox 360 Game Backups from an Internal HDD with AbadAvatarHDD. &lpar;5 Minute Setup Guide&rpar;](https://www.youtube.com/watch?v=VQzQrcLVrrg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
