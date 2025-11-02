@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [PlayStation Homebrew News &lpar;theflow0 PS4 13.00 and PS5 12.00 Kernel Exploit, Y2JB 1.2B Update &amp; More&rpar;](https://www.youtube.com/watch?v=5SxvMYa-uNE)
 - [Y2JB 1.1 Released – What&#39;s Changed?](https://www.youtube.com/watch?v=pg7qOJw0PdQ)
 - [Y2JB 1.0 – YouTube Jailbreak Released – a Step-by-Step Setup Guide for Everyone.](https://www.youtube.com/watch?v=-cENhOEb0Bc)
 - [PlayStation Homebrew News &lpar;Y2JB Updates, PS5 12.20 Released, PS4 FPKG Improvements &amp; More&rpar;](https://www.youtube.com/watch?v=XRkHC9rtTV0)
 - [I Bought Silent Hill F – Time to Submit it to the ProsperoPatches Game Database!](https://www.youtube.com/watch?v=Hb2Y4xdrxeg)
-- [What&#39;s ON the AliExpress PS4 9.00-12.02 Jailbreak Blu-ray?](https://www.youtube.com/watch?v=YNH-euzb7PM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
