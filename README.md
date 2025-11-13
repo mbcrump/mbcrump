@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [🔥PS5 Y2JB Autoloader - Step-by-step Setup Instructions](https://www.youtube.com/watch?v=zO9ScQGnsLQ)
 - [🚀 Y2JB 1.2 Released for PS5 with FULL Kernel Implementation!](https://www.youtube.com/watch?v=b6pdA9dPKvc)
 - [Exploring Yarpe – Yet Another Ren’Py PlayStation Exploit](https://www.youtube.com/watch?v=0ochdMUHL2g)
 - [Netflix-N-Hack 1.0 — Setup &amp; First Run!](https://www.youtube.com/watch?v=3D6Uecqc6Qg)
 - [PlayStation Homebrew News &lpar;Almost there... Y2JB, Poopsploit Exploit, Netflix-N-Hack Updates &amp; More&rpar;](https://www.youtube.com/watch?v=bkRLsjzvye4)
-- [PlayStation Homebrew News &lpar;theflow0 PS4 13.00 and PS5 12.00 Kernel Exploit, Y2JB 1.2B Update &amp; More&rpar;](https://www.youtube.com/watch?v=5SxvMYa-uNE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
