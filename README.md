@@ -16,7 +16,7 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
-- [🔥 How to Jailbreak Your PS4 on 12.52 &lpar;and Below&rpar; – Full Guide](https://www.youtube.com/watch?v=5Ky1KXVDR8Y)
+- [New Jailbreak! How to Jailbreak Your PS4 on 12.52 and Under!](https://www.youtube.com/watch?v=5Ky1KXVDR8Y)
 - [PlayStation Homebrew News &lpar;Kstuff 9.05, Y2JB, itsPLK, Yarpe &amp; Netflix-N-Hack Updates &amp; More&rpar;!](https://www.youtube.com/watch?v=t1YGIFu5fSY)
 - [⚡ Update Y2JB &amp; PS5 Autoloader to the Latest Version – Step-by-Step Guide](https://www.youtube.com/watch?v=ojE2nwNOw6g)
 - [🔥PS5 Y2JB Autoloader - Step-by-step Setup Instructions](https://www.youtube.com/watch?v=zO9ScQGnsLQ)
