@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [PlayStation Homebrew News &lpar;Autoloader, new etaHEN Test Build &amp; PS4 Netflix-N-Hack Updates&rpar;](https://www.youtube.com/watch?v=YMkw1ttPviE)
 - [PlayStation Homebrew News &lpar;PS4 12.52/12.50 JB, AliExpress Disc, Kstuff PS5 10.0x, &amp; Netflix-N-Hack&rpar;!](https://www.youtube.com/watch?v=qJ3rHKBm5r4)
 - [New Jailbreak! How to Jailbreak Your PS4 on 12.52 and Under!](https://www.youtube.com/watch?v=5Ky1KXVDR8Y)
 - [PlayStation Homebrew News &lpar;Kstuff 9.05, Y2JB, itsPLK, Yarpe &amp; Netflix-N-Hack Updates &amp; More&rpar;!](https://www.youtube.com/watch?v=t1YGIFu5fSY)
 - [⚡ Update Y2JB &amp; PS5 Autoloader to the Latest Version – Step-by-Step Guide](https://www.youtube.com/watch?v=ojE2nwNOw6g)
-- [🔥PS5 Y2JB Autoloader - Step-by-step Setup Instructions](https://www.youtube.com/watch?v=zO9ScQGnsLQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
