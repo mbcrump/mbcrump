@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [PlayStation Homebrew News &lpar;PS4 13.0 Jailbreak, GoldHEN Auto-Loader, &amp; PS4 PSFree + Lapse Host&rpar;](https://www.youtube.com/watch?v=vyRvgXzSD0A)
 - [How To Safely Update to Kstuff 10.0x To Play the Latest PS4/5 Games!](https://www.youtube.com/watch?v=6SeSkl8aPFE)
 - [New PS4 Userland Exploit using BDJ that Works Up to the Latest PS4 Version](https://www.youtube.com/watch?v=Tt2kc4tlgdI)
 - [etaHEN 2.4B Released! New Feature Improvements — Let&#39;s Demo it!](https://www.youtube.com/watch?v=GYRWASkTRug)
 - [PlayStation Homebrew News &lpar;Autoloader, new etaHEN Test Build &amp; PS4 Netflix-N-Hack Updates&rpar;](https://www.youtube.com/watch?v=YMkw1ttPviE)
-- [PlayStation Homebrew News &lpar;PS4 12.52/12.50 JB, AliExpress Disc, Kstuff PS5 10.0x, &amp; Netflix-N-Hack&rpar;!](https://www.youtube.com/watch?v=qJ3rHKBm5r4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
