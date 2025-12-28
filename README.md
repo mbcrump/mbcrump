@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [The Beatsaber Talk From a PlayStation 5 Scene Perspective](https://www.youtube.com/watch?v=sXeYt0FILDI)
 - [What’s on the Latest AliExpress PS4 12.52 and 12.02 Jailbreak Disc?](https://www.youtube.com/watch?v=oLfwyrAV000)
 - [Setting up the PlayStation Vue Proof of Concept](https://www.youtube.com/watch?v=xuD3mQkPXNM)
 - [Playing With the Latest etaHEN 2.5B Beta Release!](https://www.youtube.com/watch?v=eXOH_RY88es)
 - [PlayStation Homebrew News &lpar;PlayStation Vue Jailbreak, Beat Saber?, PS3 Emulation on PS5&rpar;](https://www.youtube.com/watch?v=M78aR6HtopE)
-- [All-In-One GoldHEN Autoloader for PS4 9.00 thru 12.52](https://www.youtube.com/watch?v=-evlTjzeIOk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
