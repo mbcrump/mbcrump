@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [PS5 Backports Are REAL Now… Here’s What We Know So Far](https://www.youtube.com/watch?v=I8Td1sy3Q7w)
 - [PlayStation Homebrew News &lpar;Luac0re, Y2JB &amp; Autoloader  Updates, PS5 Backports, ShadowMount, &amp; more!&rpar;](https://www.youtube.com/watch?v=JP2y_FRPmHU)
 - [Luac0re 1.0 RELEASED, but...](https://www.youtube.com/watch?v=zDb2o_8zHag)
 - [Quick Update: PS5 12.00 Jailbreak Status - Userland Achieved](https://www.youtube.com/watch?v=9bkl39WsgCw)
 - [PlayStation Homebrew News &lpar;PS5 Mast1c0re progress, PS4 13.0 Vue Jailbreak, FTP Speed Boost, &amp; more!&rpar;](https://www.youtube.com/watch?v=5F9po7Jpzwk)
-- [Physical PS2 Emulated Games for PS4 That Might Work With mast1c0re](https://www.youtube.com/watch?v=Woa_hTBM5zs)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
