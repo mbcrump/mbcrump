@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [3 Tips for Vue After Free Users!](https://www.youtube.com/watch?v=azsnmQXpX_8)
 - [Vue After Free 2.0 Released - Setup Guide and Creating New Users](https://www.youtube.com/watch?v=iY4aZRNMAlU)
 - [How to Install Themes with Vue on PS4 &lpar;After Jailbreak&rpar;](https://www.youtube.com/watch?v=1eBwT5rEeuo)
 - [PlayStation Homebrew News &lpar;Vue Jailbreak Updates &amp; Theming, UFS2Tool, ShadowMountPlus &amp; More&rpar;](https://www.youtube.com/watch?v=U8cU5Nikjcw)
 - [Does the PSVR2 Work with a Jailbroken PS5? YES!](https://www.youtube.com/watch?v=ZZdw2cwLl2I)
-- [Jailbreak for PS4 13.00 is HERE! Let&#39;s Discuss!](https://www.youtube.com/watch?v=vjYPVOgiJlA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
