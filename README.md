@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [Running Luac0re 2.0b on a PS5 12.70 with the SWRR Digital Release!](https://www.youtube.com/watch?v=8uXoGTFxRSU)
 - [Exploring Resident Evil: Requiem Physical Disc on a Jailbroken PS5](https://www.youtube.com/watch?v=RZUcBWeuFMA)
 - [PlayStation Homebrew News &lpar;Linux on PS5, PS5 JB up to 12.00,  PS5 CLI App for Savedata &amp; More&rpar;](https://www.youtube.com/watch?v=bjcU1l67sB4)
 - [3 Tips for Vue After Free Users!](https://www.youtube.com/watch?v=azsnmQXpX_8)
 - [Vue After Free 2.0 Released - Setup Guide and Creating New Users](https://www.youtube.com/watch?v=iY4aZRNMAlU)
-- [How to Install Themes with Vue on PS4 &lpar;After Jailbreak&rpar;](https://www.youtube.com/watch?v=1eBwT5rEeuo)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
