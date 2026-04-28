@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [Investigating the 30-Day DRM Game Expiry on PS4 &amp; PS5](https://www.youtube.com/watch?v=QYxbzUFx6K8)
 - [PS4 Userland Exploit via Don’t Starve Together Console Edition](https://www.youtube.com/watch?v=Eu6lKQN7oTk)
 - [Exploring Pragmata Physical Disc on a Jailbroken PS5](https://www.youtube.com/watch?v=7bpJcaJIfAY)
 - [PS5 HEN for Firmware 1.00–4.51 &lpar;Hypervisor Exploit Chain&rpar;](https://www.youtube.com/watch?v=3We5DIlP58s)
 - [ChronicLoader for PS5 – Automatic Payload Updater &amp; autoload.txt Manager](https://www.youtube.com/watch?v=mHTxfGAFAxg)
-- [PS4 13.00 &amp; Under Jailbreak Tutorial &lpar;Step-by-Step Guide for Beginners&rpar;](https://www.youtube.com/watch?v=AMpE_8md3dw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
