@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [Major PS5 Scene Update: Y2JB Userland Extended to 13.40!](https://www.youtube.com/watch?v=Bg__q5rv9j0)
 - [Exploring 007 First Light Physical Disc on a Jailbroken PS5](https://www.youtube.com/watch?v=aJROwgyDxEc)
 - [PS5 Jailbreak Methods: A Firmware-Based Overview](https://www.youtube.com/watch?v=LiEM3ZewAgA)
 - [PlayStation Homebrew News &lpar;FPKG for PS5?, MicroMount Compression, PS5 Trophy Support &amp; GoldHEN&rpar;](https://www.youtube.com/watch?v=ULiUURlhQ3g)
 - [Exploring Yarpe + P2JB &lpar;Yet Another Ren&#39;Py PlayStation Exploit&rpar; for PS5](https://www.youtube.com/watch?v=00sTRJznkXc)
-- [PS5 12.40 and Below: Y2JB &amp; P2JB Improvements + New ELF Autoloader](https://www.youtube.com/watch?v=HJyzTeXWClI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
