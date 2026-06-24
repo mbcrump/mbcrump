@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [First Native PHU A53 Kraken + APR Game on PS5 &lpar;PKG Alternative&rpar;](https://www.youtube.com/watch?v=oP-CqVB5sWE)
 - [UltraC0re Released: PS2 Save Exploit for Jak X: Combat Racing on PS5](https://www.youtube.com/watch?v=4M7UP4QLhbE)
 - [How to Add a Gen 3 &lpar;G3&rpar; M.2 SSD to Your PS5 Console](https://www.youtube.com/watch?v=MKbbx63hX8w)
 - [Major PS5 Scene Update: Y2JB Userland Extended to 13.40!](https://www.youtube.com/watch?v=Bg__q5rv9j0)
 - [Exploring 007 First Light Physical Disc on a Jailbroken PS5](https://www.youtube.com/watch?v=aJROwgyDxEc)
-- [PS5 Jailbreak Methods: A Firmware-Based Overview](https://www.youtube.com/watch?v=LiEM3ZewAgA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
