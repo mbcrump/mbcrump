@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
-- [PlayStation Homebrew News &lpar;Physical Media Disaster, kstuff on PS5 13.42?, New PS5 Linux Support&rpar;](https://www.youtube.com/watch?v=qRZKgZIqCwA)
-- [WebKit CSSFontFace Exploit for PS4/PS5 &lpar;With DEMO&rpar;](https://www.youtube.com/watch?v=F41nE___sqA)
-- [First Native PHU A53 Kraken + APR Game on PS5 &lpar;PKG Alternative&rpar;](https://www.youtube.com/watch?v=oP-CqVB5sWE)
-- [UltraC0re Released: PS2 Save Exploit for Jak X: Combat Racing on PS5](https://www.youtube.com/watch?v=4M7UP4QLhbE)
-- [How to Add a Gen 3 &lpar;G3&rpar; M.2 SSD to Your PS5 Console](https://www.youtube.com/watch?v=MKbbx63hX8w)
+- [PS5 Linux on FW 7.61 &amp; More!](https://www.youtube.com/shorts/LL_U_Le51DY)
+- [PS5 Debugger GUI](https://www.youtube.com/shorts/PcesMYGIUd4)
+- [CSSFontFace Exploit Firmware Correction for PS4 Consoles](https://www.youtube.com/shorts/4oJeHLa4TC8)
+- [Alternative to Nomadic DNS](https://www.youtube.com/shorts/0zXsC_nUT00)
+- [PS5 13.42 Released](https://www.youtube.com/shorts/BQaWFKyph24)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
