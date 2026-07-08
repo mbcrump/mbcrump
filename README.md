@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [Cheatrunner for PS5 Game Cheats](https://www.youtube.com/shorts/TfOJZyFDkkc)
+- [ShadowMountPlus 1.6 Beta 16 is out!](https://www.youtube.com/shorts/Q914f8o2hNs)
+- [PS5 Linux Image Builder](https://www.youtube.com/shorts/mdsXNoxxI78)
 - [PS5 Linux on FW 7.61 &amp; More!](https://www.youtube.com/shorts/LL_U_Le51DY)
 - [PS5 Debugger GUI](https://www.youtube.com/shorts/PcesMYGIUd4)
-- [CSSFontFace Exploit Firmware Correction for PS4 Consoles](https://www.youtube.com/shorts/4oJeHLa4TC8)
-- [Alternative to Nomadic DNS](https://www.youtube.com/shorts/0zXsC_nUT00)
-- [PS5 13.42 Released](https://www.youtube.com/shorts/BQaWFKyph24)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
