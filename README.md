@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [3 New PS4 Jailbreak Listings! Sandspeed, Mortisomem &amp; MEGALAN 11](https://www.youtube.com/shorts/HjR3KGZJzQ0)
 - [3 New PS5 Jailbreak Listings! Jagged Alliance 3, Cobra Kai 2 &amp; Tetris Forever](https://www.youtube.com/shorts/sILzMO4JKfk)
 - [New PS5 Games for Jailbroken Consoles #Shorts](https://www.youtube.com/shorts/Bspr3bpVcXU)
 - [Universal Payload Sender for PS5 #Shorts](https://www.youtube.com/shorts/8QsxCIWn0W8)
 - [PS-DiscordPresence for PlayStation #Shorts](https://www.youtube.com/shorts/tH43wq8CfSE)
-- [Garlic Save Manager 1.12 Released #Shorts](https://www.youtube.com/shorts/PtQjR7t3tM4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
