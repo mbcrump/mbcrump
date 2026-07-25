@@ -16,7 +16,7 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
-- [PlayStation Homebrew News &lpar;PS5 13.60 Patches Zero-Day + New WebKit Bug, Emulator &amp; Homebrew Updates&rpar;](https://www.youtube.com/watch?v=_R1KXMQGwPw)
+- [PlayStation Homebrew News &lpar;PS5 13.60 Patches Zero-Day? + New WebKit, Emulator &amp; Homebrew Updates&rpar;](https://www.youtube.com/watch?v=_R1KXMQGwPw)
 - [3 New PS4 Jailbreak Listings! Sandspeed, Mortisomem &amp; MEGALAN 11](https://www.youtube.com/shorts/HjR3KGZJzQ0)
 - [3 New PS5 Jailbreak Listings! Jagged Alliance 3, Cobra Kai 2 &amp; Tetris Forever](https://www.youtube.com/shorts/sILzMO4JKfk)
 - [New PS5 Games for Jailbroken Consoles #Shorts](https://www.youtube.com/shorts/Bspr3bpVcXU)
