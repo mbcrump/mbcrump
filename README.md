@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
-- [PlayStation Homebrew News &lpar;PS5 13.60 Did NOT Patch Gezine&#39;s Zero-Day + PS4 11.02 WebKit Demo&rpar;](https://www.youtube.com/watch?v=-0E158oJY5k)
-- [PlayStation Homebrew News &lpar;PS5 13.60 Patches Zero-Day? + New WebKit, Emulator &amp; Homebrew Updates&rpar;](https://www.youtube.com/watch?v=_R1KXMQGwPw)
-- [3 New PS4 Jailbreak Listings! Sandspeed, Mortisomem &amp; MEGALAN 11](https://www.youtube.com/shorts/HjR3KGZJzQ0)
-- [3 New PS5 Jailbreak Listings! Jagged Alliance 3, Cobra Kai 2 &amp; Tetris Forever](https://www.youtube.com/shorts/sILzMO4JKfk)
-- [New PS5 Games for Jailbroken Consoles #Shorts](https://www.youtube.com/shorts/Bspr3bpVcXU)
+- [Universal Payload Sender v0.1.0 Released #Shorts](https://www.youtube.com/shorts/BW9RWGFFMAk)
+- [PS5 Payload Manager v0.5.0 Released #Shorts](https://www.youtube.com/shorts/6MnraeK1w2I)
+- [SaveSyncPSPC Syncs PlayStation Saves to PC #Shorts](https://www.youtube.com/shorts/cOMm7GNbLuQ)
+- [New PS4 &amp; PS5 Games for Jailbroken Consoles #Shorts](https://www.youtube.com/shorts/idb2jKp8FkE)
+- [PS5 Linux Manager for Jailbroken Consoles #Shorts](https://www.youtube.com/shorts/GK7zXl_rIvI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
