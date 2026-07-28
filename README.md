@@ -16,7 +16,7 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
-- [PS4 Jailbreak Progress: WebKit Exploit Released for Firmware 6.00 to 11.02](https://www.youtube.com/watch?v=SKYyVorqDQQ)
+- [WebKit Exploit Released for PS4 Firmware 6.00 to 11.02](https://www.youtube.com/watch?v=SKYyVorqDQQ)
 - [Universal Payload Sender v0.1.0 Released #Shorts](https://www.youtube.com/shorts/BW9RWGFFMAk)
 - [PS5 Payload Manager v0.5.0 Released #Shorts](https://www.youtube.com/shorts/6MnraeK1w2I)
 - [SaveSyncPSPC Syncs PlayStation Saves to PC #Shorts](https://www.youtube.com/shorts/cOMm7GNbLuQ)
