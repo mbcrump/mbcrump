@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
-- [PlayStation Homebrew News &lpar;PS5 Disc Drive Pairing, Live TV on PS5, SaveSyncPSPC, and more!&rpar;](https://www.youtube.com/watch?v=N5OL4MV0u08)
-- [Exploring Halo: Combat Evolved Physical Disc on a Jailbroken PS5](https://www.youtube.com/watch?v=D726iluUip4)
-- [WebKit Exploit Released for PS4 Firmware 6.00 to 11.02](https://www.youtube.com/watch?v=SKYyVorqDQQ)
-- [Universal Payload Sender v0.1.0 Released #Shorts](https://www.youtube.com/shorts/BW9RWGFFMAk)
-- [PS5 Payload Manager v0.5.0 Released #Shorts](https://www.youtube.com/shorts/6MnraeK1w2I)
+- [CheatRunner v0.17 Released #Shorts](https://www.youtube.com/shorts/wB4MAmqT_Rk)
+- [SaveSyncPSPC Moves PlayStation Saves to PC #Shorts](https://www.youtube.com/shorts/2swUQJDB_n4)
+- [Live TV on PS5 with TVHP and JTPlay #Shorts](https://www.youtube.com/shorts/DB7bGGTmw7s)
+- [PS4 Security Vulnerabilities and SUID Scanner #Shorts](https://www.youtube.com/shorts/LFFOiOgEhY8)
+- [SharpProspero v0.5 C# SDK for PS5 Homebrew #Shorts](https://www.youtube.com/shorts/L_EO8B8SutM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
