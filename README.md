@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
-- [PS5 Jailbreak Lab: 4 Exploit Tests on Firmware 4.03, 12.00 and 13.60](https://www.youtube.com/watch?v=QSEmaM4jDVg)
-- [PlayStation Homebrew News &lpar;PS5 14.00 Beta, BD-JB5, PS5/PS4 WebKit + Emulators](https://www.youtube.com/watch?v=1THu446fKF4)
-- [BD-JB for PS5 RELEASED! DEMO TIME!](https://www.youtube.com/watch?v=EYLEU3eN7Zg)
-- [CheatRunner v0.17 Released #Shorts](https://www.youtube.com/shorts/wB4MAmqT_Rk)
-- [SaveSyncPSPC Moves PlayStation Saves to PC #Shorts](https://www.youtube.com/shorts/2swUQJDB_n4)
+- [Xbox360BadUpdate v1.3 Is Faster and More Reliable #Shorts](https://www.youtube.com/shorts/BsrciudBbaA)
+- [New PS4 and PS5 Games for Jailbroken Consoles #Shorts](https://www.youtube.com/shorts/ZZDA0qLyRFY)
+- [ProsperoPlayer 1.0 Brings Media Playback to PS5 #Shorts](https://www.youtube.com/shorts/OqgsIkLJWhQ)
+- [ChonkyStation4 Can Boot PS4 Games on PC #Shorts](https://www.youtube.com/shorts/5nKpGmTO-C4)
+- [ShadowMountPlus 1.7 Alpha 5 Adds Fan Control #Shorts](https://www.youtube.com/shorts/NEEw-nhVfGg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
