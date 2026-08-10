@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [Just Released: New PS5 WebKit Exploit for Firmware 12.00 and Lower!](https://www.youtube.com/watch?v=FJ-ePpspCV8)
 - [Xbox360BadUpdate v1.3 Is Faster and More Reliable #Shorts](https://www.youtube.com/shorts/BsrciudBbaA)
 - [New PS4 and PS5 Games for Jailbroken Consoles #Shorts](https://www.youtube.com/shorts/ZZDA0qLyRFY)
 - [ProsperoPlayer 1.0 Brings Media Playback to PS5 #Shorts](https://www.youtube.com/shorts/OqgsIkLJWhQ)
 - [ChonkyStation4 Can Boot PS4 Games on PC #Shorts](https://www.youtube.com/shorts/5nKpGmTO-C4)
-- [ShadowMountPlus 1.7 Alpha 5 Adds Fan Control #Shorts](https://www.youtube.com/shorts/NEEw-nhVfGg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
