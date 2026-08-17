@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
-- [etaHEN 2.6B for PS5 12.00: WebKit and P2JB Update](https://www.youtube.com/watch?v=bx1MmPvFvAM)
-- [PlayStation Homebrew News &lpar;PS5 WebKit Autoloader v0.3, Save Mounter 2.0, and etaHEN Forks?&rpar;](https://www.youtube.com/watch?v=KAYH1T97KJs)
-- [Linux on PS5 13.60! Coming Soon?](https://www.youtube.com/watch?v=2eqF5kYcNdI)
-- [Just Released: New PS5 WebKit Exploit for Firmware 12.00 and Lower!](https://www.youtube.com/watch?v=FJ-ePpspCV8)
-- [Xbox360BadUpdate v1.3 Is Faster and More Reliable #Shorts](https://www.youtube.com/shorts/BsrciudBbaA)
+- [PS5 Save Mounter 2.0 Unlocks Save Access #Shorts](https://www.youtube.com/shorts/5uz3DRKhgas)
+- [kstuff-lite v1.10 Adds PS5 Firmware Support #Shorts](https://www.youtube.com/shorts/L9Dl3V6kfjc)
+- [One PS5 PKG for Multiple WebKit Exploits? #Shorts](https://www.youtube.com/shorts/dwkz8ZZZkX8)
+- [PS5 Payload Manager v0.5.1 Released #Shorts](https://www.youtube.com/shorts/oFPNnpGXPwQ)
+- [PS5 WebKit Autoloader v0.3.0 Released #Shorts](https://www.youtube.com/shorts/xC-KhGNCAHk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
