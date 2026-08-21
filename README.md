@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [PlayStation Homebrew News &lpar;Universal SlopKit, DooMC0re on PS5 13.60 + New Emulators&rpar;](https://www.youtube.com/watch?v=CcgI0FejOYQ)
 - [WebKit + P2JB + etaHEN 2.6B on PS5 12.70](https://www.youtube.com/watch?v=FRCpB4BVQVY)
 - [PS5 Save Mounter 2.0 Unlocks Save Access #Shorts](https://www.youtube.com/shorts/5uz3DRKhgas)
 - [kstuff-lite v1.10 Adds PS5 Firmware Support #Shorts](https://www.youtube.com/shorts/L9Dl3V6kfjc)
 - [One PS5 PKG for Multiple WebKit Exploits? #Shorts](https://www.youtube.com/shorts/dwkz8ZZZkX8)
-- [PS5 Payload Manager v0.5.1 Released #Shorts](https://www.youtube.com/shorts/oFPNnpGXPwQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
