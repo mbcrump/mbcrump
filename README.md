@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
-- [Prospero Manager Previewed for PS5 #Shorts](https://www.youtube.com/shorts/PLs6DMswGZk)
-- [LuaMD v1.0 Brings Mega Drive Emulation to PS5 #Shorts](https://www.youtube.com/shorts/VnMmpQXDZWk)
-- [LuaGB v1.0 Brings Game Boy Emulation to PS5 #Shorts](https://www.youtube.com/shorts/b-CEcJTJabw)
-- [DooMC0re Runs on PS5 Firmware 13.60 #Shorts](https://www.youtube.com/shorts/s0tt7C1y5uc)
-- [Universal SlopKit Targets Every PS5 Firmware #Shorts](https://www.youtube.com/shorts/wde_tp6YFoM)
+- [JTPlay Tests a New PS5 Web Branch #Shorts](https://www.youtube.com/shorts/j7JtBYljIIk)
+- [Three PlayStation Emulators Show New Progress #Shorts](https://www.youtube.com/shorts/K_FjxHNXIyY)
+- [New PS4 and PS5 Games for Jailbroken Consoles #Shorts](https://www.youtube.com/shorts/RS2EG5DWe8U)
+- [PS5 Titania NAND Data Format Researched #Shorts](https://www.youtube.com/shorts/q_IVzIY-otI)
+- [PoorDS4 RC38 Updates PlayStation Controllers #Shorts](https://www.youtube.com/shorts/rh5fAUOYXIg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
