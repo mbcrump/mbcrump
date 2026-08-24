@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
-- [5 PS5 Game Discs Tested on a Jailbroken PS5](https://www.youtube.com/watch?v=bzG7czcYJWQ)
-- [PlayStation Homebrew News &lpar;Universal SlopKit, DooMC0re on PS5 13.60 + New Emulators&rpar;](https://www.youtube.com/watch?v=CcgI0FejOYQ)
-- [WebKit + P2JB + etaHEN 2.6B on PS5 12.70](https://www.youtube.com/watch?v=FRCpB4BVQVY)
-- [PS5 Save Mounter 2.0 Unlocks Save Access #Shorts](https://www.youtube.com/shorts/5uz3DRKhgas)
-- [kstuff-lite v1.10 Adds PS5 Firmware Support #Shorts](https://www.youtube.com/shorts/L9Dl3V6kfjc)
+- [Prospero Manager Previewed for PS5 #Shorts](https://www.youtube.com/shorts/PLs6DMswGZk)
+- [LuaMD v1.0 Brings Mega Drive Emulation to PS5 #Shorts](https://www.youtube.com/shorts/VnMmpQXDZWk)
+- [LuaGB v1.0 Brings Game Boy Emulation to PS5 #Shorts](https://www.youtube.com/shorts/b-CEcJTJabw)
+- [DooMC0re Runs on PS5 Firmware 13.60 #Shorts](https://www.youtube.com/shorts/s0tt7C1y5uc)
+- [Universal SlopKit Targets Every PS5 Firmware #Shorts](https://www.youtube.com/shorts/wde_tp6YFoM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
