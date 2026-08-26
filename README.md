@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
-- [New PS4 WebKit Jailbreak for 11.50–13.00! Tested on 12.52 &amp; 13.00](https://www.youtube.com/watch?v=FfXx4GXcfqk)
-- [JTPlay Tests a New PS5 Web Branch #Shorts](https://www.youtube.com/shorts/j7JtBYljIIk)
-- [Three PlayStation Emulators Show New Progress #Shorts](https://www.youtube.com/shorts/K_FjxHNXIyY)
-- [New PS4 and PS5 Games for Jailbroken Consoles #Shorts](https://www.youtube.com/shorts/RS2EG5DWe8U)
-- [PS5 Titania NAND Data Format Researched #Shorts](https://www.youtube.com/shorts/q_IVzIY-otI)
+- [PIZZA-HEN v1.0 Released for PS5 #Shorts](https://www.youtube.com/shorts/6u8TQUs-qyA)
+- [etaHEN v2.6b Released for PS5 #Shorts](https://www.youtube.com/shorts/XyB2ofJ00lo)
+- [OnionHEN v0.0.10 Released for PS5 #Shorts](https://www.youtube.com/shorts/duljS90sFJo)
+- [ShadowMountPlus 1.7 Alpha 8 Released #Shorts](https://www.youtube.com/shorts/kE0Y3OvYNfw)
+- [PS5 WebKit Autoloader v0.3.1 Released #Shorts](https://www.youtube.com/shorts/rIu3JwMcgak)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
