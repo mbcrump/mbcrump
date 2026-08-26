@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [New PS4 WebKit Jailbreak for 11.50–13.00! Tested on 12.52 &amp; 13.00](https://www.youtube.com/watch?v=FfXx4GXcfqk)
 - [JTPlay Tests a New PS5 Web Branch #Shorts](https://www.youtube.com/shorts/j7JtBYljIIk)
 - [Three PlayStation Emulators Show New Progress #Shorts](https://www.youtube.com/shorts/K_FjxHNXIyY)
 - [New PS4 and PS5 Games for Jailbroken Consoles #Shorts](https://www.youtube.com/shorts/RS2EG5DWe8U)
 - [PS5 Titania NAND Data Format Researched #Shorts](https://www.youtube.com/shorts/q_IVzIY-otI)
-- [PoorDS4 RC38 Updates PlayStation Controllers #Shorts](https://www.youtube.com/shorts/rh5fAUOYXIg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
