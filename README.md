@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [PlayStation Homebrew News: PS5 Redis Auto-Jailbreak, PS4 13.00 Debugging &amp; N64 Emulator Coming Soon!](https://www.youtube.com/watch?v=asMyt16HCco)
 - [PIZZA-HEN v1.0 Released for PS5 #Shorts](https://www.youtube.com/shorts/6u8TQUs-qyA)
 - [etaHEN v2.6b Released for PS5 #Shorts](https://www.youtube.com/shorts/XyB2ofJ00lo)
 - [OnionHEN v0.0.10 Released for PS5 #Shorts](https://www.youtube.com/shorts/duljS90sFJo)
 - [ShadowMountPlus 1.7 Alpha 8 Released #Shorts](https://www.youtube.com/shorts/kE0Y3OvYNfw)
-- [PS5 WebKit Autoloader v0.3.1 Released #Shorts](https://www.youtube.com/shorts/rIu3JwMcgak)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
