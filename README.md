@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
-- [Prospero Manager Public Beta Released for PS5 #Shorts](https://www.youtube.com/shorts/aoFSps4chDk)
-- [OrbisNet Tests P2P Online Play on Jailbroken PS4 #Shorts](https://www.youtube.com/shorts/NbRG3Bh-Aj8)
-- [ShadowMountPlus 1.7 Alpha 11 Released #Shorts](https://www.youtube.com/shorts/PGbOQUf2iOc)
-- [PS5 WebKit Autoloader v0.4.0 Expands Support #Shorts](https://www.youtube.com/shorts/yRXfttqK7Eo)
-- [PS5 Redis Auto-Jailbreak Testing Begins #Shorts](https://www.youtube.com/shorts/tH-DMWcnzZo)
+- [How to AUTO Jailbreak a PS5 on 3.00-5.50 with Redis! &lpar;testing&rpar;](https://www.youtube.com/watch?v=X52VjTmFscQ)
+- [Common FPS v1.0.0 Adds a PS5 Performance Overlay #Shorts](https://www.youtube.com/shorts/ozPvtk42yX8)
+- [OnionHEN Documentation Returns for PS5 #Shorts](https://www.youtube.com/shorts/uzXoiYv4BUY)
+- [PIZZA-HEN v2.00 Released for PS5 #Shorts](https://www.youtube.com/shorts/3Ymrw8_ngIk)
+- [AMPR Emu 0.3.6.6 Updates PS5 Emulation #Shorts](https://www.youtube.com/shorts/T9lrIhX-o84)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
