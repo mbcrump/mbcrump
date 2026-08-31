@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
-- [How to AUTO Jailbreak a PS5 on 3.00-5.50 with Redis! &lpar;testing&rpar;](https://www.youtube.com/watch?v=X52VjTmFscQ)
-- [Common FPS v1.0.0 Adds a PS5 Performance Overlay #Shorts](https://www.youtube.com/shorts/ozPvtk42yX8)
-- [OnionHEN Documentation Returns for PS5 #Shorts](https://www.youtube.com/shorts/uzXoiYv4BUY)
-- [PIZZA-HEN v2.00 Released for PS5 #Shorts](https://www.youtube.com/shorts/3Ymrw8_ngIk)
-- [AMPR Emu 0.3.6.6 Updates PS5 Emulation #Shorts](https://www.youtube.com/shorts/T9lrIhX-o84)
+- [PS5 Date and Time Sync v1.0.0 Released #Shorts](https://www.youtube.com/shorts/LkeW9sbogvE)
+- [PSN64 Brings Nintendo 64 Emulation to PS5 #Shorts](https://www.youtube.com/shorts/6XwAOQ8EobI)
+- [New PS4 and PS5 Games for Jailbroken Consoles #Shorts](https://www.youtube.com/shorts/A2NhysMj7tg)
+- [KytyPS5 and SharpEmu Show New Emulator Progress #Shorts](https://www.youtube.com/shorts/HGq5joM-Gp0)
+- [Simple PS5 Patch Downloader v2 Released #Shorts](https://www.youtube.com/shorts/dVCytdg4ECE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
