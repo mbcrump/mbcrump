@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [PS5 13.60 Jailbreak Coming Soon!](https://www.youtube.com/watch?v=3peSI20Xawk)
 - [PS5 Date and Time Sync v1.0.0 Released #Shorts](https://www.youtube.com/shorts/LkeW9sbogvE)
 - [PSN64 Brings Nintendo 64 Emulation to PS5 #Shorts](https://www.youtube.com/shorts/6XwAOQ8EobI)
 - [New PS4 and PS5 Games for Jailbroken Consoles #Shorts](https://www.youtube.com/shorts/A2NhysMj7tg)
 - [KytyPS5 and SharpEmu Show New Emulator Progress #Shorts](https://www.youtube.com/shorts/HGq5joM-Gp0)
-- [Simple PS5 Patch Downloader v2 Released #Shorts](https://www.youtube.com/shorts/dVCytdg4ECE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
