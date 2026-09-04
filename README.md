@@ -16,7 +16,7 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
-- [PS5 13.60 Jailbreak Coming Soon!](https://www.youtube.com/watch?v=3peSI20Xawk)
+- [PS5 13.60 Jailbreak Is Almost HERE! 🚨](https://www.youtube.com/watch?v=3peSI20Xawk)
 - [PS5 Date and Time Sync v1.0.0 Released #Shorts](https://www.youtube.com/shorts/LkeW9sbogvE)
 - [PSN64 Brings Nintendo 64 Emulation to PS5 #Shorts](https://www.youtube.com/shorts/6XwAOQ8EobI)
 - [New PS4 and PS5 Games for Jailbroken Consoles #Shorts](https://www.youtube.com/shorts/A2NhysMj7tg)
