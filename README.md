@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [PS5 FPKG Support Now Reaches Firmware 11.40 #Shorts](https://www.youtube.com/shorts/9tcygSNpFj4)
+- [How PPR Patch Supports PS5 Fake Packages #Shorts](https://www.youtube.com/shorts/MW3yzvr6UNc)
+- [PS5 13.60 Kernel UAF Research Explained #Shorts](https://www.youtube.com/shorts/O6Hx53IRPCw)
 - [PlayStation Homebrew News &lpar;PS5 13.60 Kernel Bug, FPKG Support for 11.40 &amp; Switch Controller on PS5&rpar;](https://www.youtube.com/watch?v=18Uh3S8gd6c)
 - [ShadowMountPlus Gets PS5 Stability Fixes #Shorts](https://www.youtube.com/shorts/2QQ08t0ygcI)
-- [MkPFS 1.0 Makes PlayStation Images Easier #Shorts](https://www.youtube.com/shorts/eKk_zyyKsrk)
-- [This Local AI Runs Directly on a PS5 #Shorts](https://www.youtube.com/shorts/gRr9gT6frhw)
-- [PS5 FPKG Is Coming: 11.40 Support, GUI Test Build &amp; What&#39;s Next](https://www.youtube.com/watch?v=qChgPA-EPQE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
