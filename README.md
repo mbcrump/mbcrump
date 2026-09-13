@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [PS5 PKG Viewer Shows Package Metadata #Shorts](https://www.youtube.com/shorts/WIlLGYeIjUY)
+- [This ESP32-S3 Hosts a PS5 Jailbreak Offline #Shorts](https://www.youtube.com/shorts/Y-9c1E36WSE)
+- [This PS4 Browser Address Bar Can Be Spoofed #Shorts](https://www.youtube.com/shorts/w9wmjGCad4w)
 - [PS5 13.60 Users Interested in Jailbreak: Do this now!](https://www.youtube.com/watch?v=nULkiKdWBd4)
 - [PS5 FPKG Support Now Reaches Firmware 11.40 #Shorts](https://www.youtube.com/shorts/9tcygSNpFj4)
-- [How PPR Patch Supports PS5 Fake Packages #Shorts](https://www.youtube.com/shorts/MW3yzvr6UNc)
-- [PS5 13.60 Kernel UAF Research Explained #Shorts](https://www.youtube.com/shorts/O6Hx53IRPCw)
-- [PlayStation Homebrew News &lpar;PS5 13.60 Kernel Bug, FPKG Support for 11.40 &amp; Switch Controller on PS5&rpar;](https://www.youtube.com/watch?v=18Uh3S8gd6c)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
