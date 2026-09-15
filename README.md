@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [World of Warcraft Runs Natively on PS4 With WoWPS #Shorts](https://www.youtube.com/shorts/3bjEQ3GWuFA)
+- [kstuff-lite Fixes PS5 Firmware 12.x Offsets #Shorts](https://www.youtube.com/shorts/VyQWmt4PyHU)
+- [AMPR Emu Adds Compressed PS5 Game Packs #Shorts](https://www.youtube.com/shorts/vqVE15lH3L4)
 - [A Switch Pro Controller Works Wirelessly on PS5 #Shorts](https://www.youtube.com/shorts/-lzmMeMDDgg)
 - [ProsperoAI Goes Stable on PlayStation 5 #Shorts](https://www.youtube.com/shorts/904EIK8Sxho)
-- [OnionHEN 0.0.13 Is Now Stable #Shorts](https://www.youtube.com/shorts/wC4B7-NUYz0)
-- [PS5 PKG Viewer Shows Package Metadata #Shorts](https://www.youtube.com/shorts/WIlLGYeIjUY)
-- [This ESP32-S3 Hosts a PS5 Jailbreak Offline #Shorts](https://www.youtube.com/shorts/Y-9c1E36WSE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
