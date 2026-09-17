@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [TVHP Turns a Jailbroken PS5 Into a Live TV Client #Shorts](https://www.youtube.com/shorts/-PCRiJlik6U)
+- [SSPI 5.10 Brings Package Management to PS4 #Shorts](https://www.youtube.com/shorts/7uG-i9XuJDE)
+- [PS5Upload 5.18 and OpenGL SDK 0.2 Move Forward #Shorts](https://www.youtube.com/shorts/cQ6xwOZ6T1Q)
+- [New PS4 and PS5 Games for Jailbroken Consoles #Shorts](https://www.youtube.com/shorts/V1yaQF_OMDg)
 - [Marvel&#39;s Wolverine Physical Disc on a Jailbroken PS5: It Plays Offline!](https://www.youtube.com/watch?v=2PgYH40_9-Q)
-- [World of Warcraft Runs Natively on PS4 With WoWPS #Shorts](https://www.youtube.com/shorts/3bjEQ3GWuFA)
-- [kstuff-lite Fixes PS5 Firmware 12.x Offsets #Shorts](https://www.youtube.com/shorts/VyQWmt4PyHU)
-- [AMPR Emu Adds Compressed PS5 Game Packs #Shorts](https://www.youtube.com/shorts/vqVE15lH3L4)
-- [A Switch Pro Controller Works Wirelessly on PS5 #Shorts](https://www.youtube.com/shorts/-lzmMeMDDgg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
