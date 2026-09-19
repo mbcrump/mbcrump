@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [PS5 System Software 14.00 #Shorts](https://www.youtube.com/shorts/Zk6ORUWg2EI)
+- [Slopervisor and PS5 13.60 #Shorts](https://www.youtube.com/shorts/cdfY3geifAg)
+- [PS5 14.00 Hypervisor Correction #Shorts](https://www.youtube.com/shorts/ugAJmLLq6Pk)
 - [PlayStation Homebrew News &lpar;Slopervisor, PS5 14.00 &amp; GoldHEN 13.00+&rpar;](https://www.youtube.com/watch?v=H4nAseJmtjM)
 - [TVHP Turns a Jailbroken PS5 Into a Live TV Client #Shorts](https://www.youtube.com/shorts/-PCRiJlik6U)
-- [SSPI 5.10 Brings Package Management to PS4 #Shorts](https://www.youtube.com/shorts/7uG-i9XuJDE)
-- [PS5Upload 5.18 and OpenGL SDK 0.2 Move Forward #Shorts](https://www.youtube.com/shorts/cQ6xwOZ6T1Q)
-- [New PS4 and PS5 Games for Jailbroken Consoles #Shorts](https://www.youtube.com/shorts/V1yaQF_OMDg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
