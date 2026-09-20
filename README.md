@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [PS5 Save Mounter v2.0.1 #Shorts](https://www.youtube.com/shorts/B3JtSvnEBQo)
+- [PS4 System Software 14.00 #Shorts](https://www.youtube.com/shorts/ZHwQ-abpBGY)
+- [PS5Upload 5.29 Prerelease #Shorts](https://www.youtube.com/shorts/wzl_A8Ji3Fw)
+- [kstuff-lite FPKG and PPR Patch #Shorts](https://www.youtube.com/shorts/zNt_f7Twv2k)
 - [PS4 13.52 Development Update #Shorts](https://www.youtube.com/shorts/CQMBZhI7jWI)
-- [PKG Viewer v1.7.5 #Shorts](https://www.youtube.com/shorts/bRivUQuoVt0)
-- [DeadOps for Black Ops #Shorts](https://www.youtube.com/shorts/o415tMVeKZY)
-- [SiSTRo on GoldHEN Above 13.00 #Shorts](https://www.youtube.com/shorts/pTQEtE4UOgI)
-- [PS5 System Software 14.00 #Shorts](https://www.youtube.com/shorts/Zk6ORUWg2EI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
