@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [SSPI 5.11.1 Beta #Shorts](https://www.youtube.com/shorts/0hohJ9iI2sE)
+- [OnionHEN 0.0.13 Follow-up #Shorts](https://www.youtube.com/shorts/MKzb4jwLtSE)
+- [KytyPS5 and SharpEmu #Shorts](https://www.youtube.com/shorts/s4TT0yqhOxM)
 - [PS5 Save Mounter v2.0.1 #Shorts](https://www.youtube.com/shorts/B3JtSvnEBQo)
 - [PS4 System Software 14.00 #Shorts](https://www.youtube.com/shorts/ZHwQ-abpBGY)
-- [PS5Upload 5.29 Prerelease #Shorts](https://www.youtube.com/shorts/wzl_A8Ji3Fw)
-- [kstuff-lite FPKG and PPR Patch #Shorts](https://www.youtube.com/shorts/zNt_f7Twv2k)
-- [PS4 13.52 Development Update #Shorts](https://www.youtube.com/shorts/CQMBZhI7jWI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
