@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [SharpProspero SDK Development #Shorts](https://www.youtube.com/shorts/ZjoyxrugoOs)
+- [Common FPS v1.1.0 #Shorts](https://www.youtube.com/shorts/_-r54dYDKeg)
+- [ChonkyStation4 Development #Shorts](https://www.youtube.com/shorts/icI0v2wjzdc)
+- [New PS Games for Jailbroken Users #Shorts](https://www.youtube.com/shorts/kT-FAhLu1_Q)
 - [PS4 13.52 Jailbreak Released with GoldHEN!](https://www.youtube.com/watch?v=CBYqh_0cSzk)
-- [SSPI 5.11.1 Beta #Shorts](https://www.youtube.com/shorts/0hohJ9iI2sE)
-- [OnionHEN 0.0.13 Follow-up #Shorts](https://www.youtube.com/shorts/MKzb4jwLtSE)
-- [KytyPS5 and SharpEmu #Shorts](https://www.youtube.com/shorts/s4TT0yqhOxM)
-- [PS5 Save Mounter v2.0.1 #Shorts](https://www.youtube.com/shorts/B3JtSvnEBQo)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
