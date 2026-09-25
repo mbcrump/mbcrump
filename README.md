@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [Silent Hill: Townfall Physical Disc on a Jailbroken PS5: It Plays Offline!](https://www.youtube.com/watch?v=PJEQubiZBtA)
 - [SharpProspero SDK Development #Shorts](https://www.youtube.com/shorts/ZjoyxrugoOs)
 - [Common FPS v1.1.0 #Shorts](https://www.youtube.com/shorts/_-r54dYDKeg)
 - [ChonkyStation4 Development #Shorts](https://www.youtube.com/shorts/icI0v2wjzdc)
 - [New PS Games for Jailbroken Users #Shorts](https://www.youtube.com/shorts/kT-FAhLu1_Q)
-- [PS4 13.52 Jailbreak Released with GoldHEN!](https://www.youtube.com/watch?v=CBYqh_0cSzk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
