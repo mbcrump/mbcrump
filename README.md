@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [PS5 Firmware 14.00 Patches the WebKit Path #Shorts](https://www.youtube.com/shorts/t2k_KQ1bCZg)
+- [AnyPS5 Runs PS5 Executables Natively on PC #Shorts](https://www.youtube.com/shorts/xBbVziWJUAI)
 - [Why the PS5 13.60 Kernel Exploit Is Still Private #Shorts](https://www.youtube.com/shorts/lopUi-5mKMs)
 - [PS5-Relapse Targets Firmware 11.60 to 13.60 #Shorts](https://www.youtube.com/shorts/fFkL_vZKcNE)
 - [PlayStation Homebrew News &lpar;Relapse for PS5 13.60, GoldHEN 13.52 &amp; Mario Kart Wii&rpar;](https://www.youtube.com/watch?v=_Lp6WLk5y1s)
-- [Silent Hill: Townfall Physical Disc on a Jailbroken PS5: It Plays Offline!](https://www.youtube.com/watch?v=PJEQubiZBtA)
-- [SharpProspero SDK Development #Shorts](https://www.youtube.com/shorts/ZjoyxrugoOs)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
