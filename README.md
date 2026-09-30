@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [FlappyC0re Brings a Tiny Payload Game to PS4 and PS5 #Shorts](https://www.youtube.com/shorts/HX65Ok4BQCg)
+- [Mario Kart Wii Runs Natively on a PS5 #Shorts](https://www.youtube.com/shorts/ZFBk4vuIqco)
+- [PS5 13.60 Jailbreak: Full Setup in Minutes](https://www.youtube.com/watch?v=QXSKHeSYoSE)
+- [PKG Viewer 1.14.1 Reads PS4 and PS5 Trophies #Shorts](https://www.youtube.com/shorts/cotXnZIc8lY)
 - [Gran Turismo 7 Runs Offline but Cannot Save Yet #Shorts](https://www.youtube.com/shorts/xrP5ClQFY2E)
-- [kstuff-lite 1.11 Adds PS5 Firmware 13.xx Support #Shorts](https://www.youtube.com/shorts/cPCpUWE8o8A)
-- [World of Warcraft Runs Natively on PS4 With WoWPS #Shorts](https://www.youtube.com/shorts/WYCDacpRK6M)
-- [PlayStation Homebrew News &lpar;PSN on 13.60 Still Works, Wolverine on KytyPS5 &amp; KStuff Next Gen&rpar;](https://www.youtube.com/watch?v=_m6VwWMmve0)
-- [Install PS5 Packages Over USB or Your Network #Shorts](https://www.youtube.com/shorts/LrpX2oJPckg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
