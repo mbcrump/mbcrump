@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [PS5 13.60 Jailbreak: No PC Required! &lpar;Full On-Console Setup&rpar;](https://www.youtube.com/watch?v=rhcypEG6UGg)
+- [New PS4 and PS5 Games for Jailbroken Consoles #Shorts](https://www.youtube.com/shorts/1AE1GKBiZ9s)
+- [Wolverine and Silent Hill Townfall Work Offline on PS5 #Shorts](https://www.youtube.com/shorts/PXzVGyk1XcM)
 - [WinPS5 Tests Windows Executables on PlayStation 5 #Shorts](https://www.youtube.com/shorts/ZxX9rjciui0)
 - [Can This Tool Bring PS3 Games to a Jailbroken PS5? #Shorts](https://www.youtube.com/shorts/SdWVNQs80Pc)
-- [LUAp0rt GBA Brings Game Boy Advance Games to PS5 #Shorts](https://www.youtube.com/shorts/exRuP7uD1-o)
-- [FlappyC0re Brings a Tiny Payload Game to PS4 and PS5 #Shorts](https://www.youtube.com/shorts/HX65Ok4BQCg)
-- [Mario Kart Wii Runs Natively on a PS5 #Shorts](https://www.youtube.com/shorts/ZFBk4vuIqco)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
