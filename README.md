@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [Dead Cells Runs on Windows Through AnyPS5 #Shorts](https://www.youtube.com/shorts/CNWDwAaexWE)
 - [AnyPS5 Adds Random and Real-Time Clock Support #Shorts](https://www.youtube.com/shorts/RXmAjLC5xtw)
 - [Marvel&#39;s Wolverine Reaches the KytyPS5 Title Screen #Shorts](https://www.youtube.com/shorts/oF5NDRG4I00)
 - [PS5 13.60 Jailbreak: No PC Required! &lpar;Full On-Console Setup&rpar;](https://www.youtube.com/watch?v=rhcypEG6UGg)
 - [New PS4 and PS5 Games for Jailbroken Consoles #Shorts](https://www.youtube.com/shorts/1AE1GKBiZ9s)
-- [Wolverine and Silent Hill Townfall Work Offline on PS5 #Shorts](https://www.youtube.com/shorts/PXzVGyk1XcM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
