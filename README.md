@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [Could This PS3 Hardware Glitch Unlock CFW on Every Model? #Shorts](https://www.youtube.com/shorts/8Cw0c2pN_EQ)
 - [PS4 Firmware 14.00 Kernel Offsets Land #Shorts](https://www.youtube.com/shorts/nSlNB7cz4yM)
 - [Kstuff Next Gen Development Starts for PS5 #Shorts](https://www.youtube.com/shorts/E7HMd59UmD4)
 - [Dead Cells Runs on Windows Through AnyPS5 #Shorts](https://www.youtube.com/shorts/CNWDwAaexWE)
 - [AnyPS5 Adds Random and Real-Time Clock Support #Shorts](https://www.youtube.com/shorts/RXmAjLC5xtw)
-- [Marvel&#39;s Wolverine Reaches the KytyPS5 Title Screen #Shorts](https://www.youtube.com/shorts/oF5NDRG4I00)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
