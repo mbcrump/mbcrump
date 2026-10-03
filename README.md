@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [Mario Kart 64 Hits 60 FPS in a PS5SX2 Test #Shorts](https://www.youtube.com/shorts/lMZyBl_Nt_Y)
 - [SOCOM II Networking Gets Closer in PS5SX2 #Shorts](https://www.youtube.com/shorts/AMLNieOcBuM)
 - [PS5SX2 Gets Its First Public Test Build #Shorts](https://www.youtube.com/shorts/EkX4ARZ1diA)
 - [PS5 Jailbreak &amp; Homebrew Beginner&#39;s Guide: Firmware, Payloads &amp; Tools](https://www.youtube.com/watch?v=6ZFeuEHsU0g)
 - [PS5 RetroArch Moves Every Core to RADV #Shorts](https://www.youtube.com/shorts/Hl_Ayy0jwMs)
-- [Could This PS3 Hardware Glitch Unlock CFW on Every Model? #Shorts](https://www.youtube.com/shorts/8Cw0c2pN_EQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
