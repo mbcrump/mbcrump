@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [PS5 Jailbreak Entry Points Explained #Shorts](https://www.youtube.com/shorts/42hcJ6sZ040)
+- [The PS5 Jailbreak Chain in Four Steps #Shorts](https://www.youtube.com/shorts/tsCz2tBorhw)
 - [New PS4 and PS5 Games for Jailbroken Consoles #Shorts](https://www.youtube.com/shorts/35Hi1hix0mQ)
 - [Is a PS5 Jailbreak Permanent? #Shorts](https://www.youtube.com/shorts/J7_5xyFS9dk)
 - [PS5 Jailbreak Guide: Update from 12.xx to 13.60](https://www.youtube.com/watch?v=-ALBA_ev1lk)
-- [How to Find Your PS5 Firmware Version #Shorts](https://www.youtube.com/shorts/bBl4OyaMLyk)
-- [Mari0 Brings Portal Mechanics to PS4 #Shorts](https://www.youtube.com/shorts/2CzVGWYdZ0Q)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
