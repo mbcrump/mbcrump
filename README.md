@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [What Is a PS5 Payload? ELF Files Explained #Shorts](https://www.youtube.com/shorts/R6RMQzkzATo)
 - [PS5 Jailbreak Entry Points Explained #Shorts](https://www.youtube.com/shorts/42hcJ6sZ040)
 - [The PS5 Jailbreak Chain in Four Steps #Shorts](https://www.youtube.com/shorts/tsCz2tBorhw)
 - [New PS4 and PS5 Games for Jailbroken Consoles #Shorts](https://www.youtube.com/shorts/35Hi1hix0mQ)
 - [Is a PS5 Jailbreak Permanent? #Shorts](https://www.youtube.com/shorts/J7_5xyFS9dk)
-- [PS5 Jailbreak Guide: Update from 12.xx to 13.60](https://www.youtube.com/watch?v=-ALBA_ev1lk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
