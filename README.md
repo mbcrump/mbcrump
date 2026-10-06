@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [PS5 Homebrew Emulation: RetroArch, PS5SX2 &amp; Eden #Shorts](https://www.youtube.com/shorts/5hcRwmxW3yQ)
+- [Your First PS5 Jailbreak Session: The Order #Shorts](https://www.youtube.com/shorts/WtreHmk506M)
 - [8 PS5 Emulators Available Now &lpar;PS2, Switch, Xbox, Wii U &amp; More&rpar;](https://www.youtube.com/watch?v=8vNidvKaP-g)
 - [Three PS5 File and Package Tools #Shorts](https://www.youtube.com/shorts/UpPIbrOkr6M)
 - [Why PS5 Payload Manager Helps Beginners #Shorts](https://www.youtube.com/shorts/yUiVXhQb-Yk)
-- [Where etaHEN Fits in a PS5 Jailbreak #Shorts](https://www.youtube.com/shorts/cQf8g0_KFsg)
-- [kstuff-lite, ShadowMountPlus &amp; nanoDNS Explained #Shorts](https://www.youtube.com/shorts/A4zGVG2bVxA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
