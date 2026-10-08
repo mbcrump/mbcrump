@@ -16,7 +16,7 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
-- [PS5SX2 Setup Guide: Play PS2 Games on a Jailbroken PS5 &lpar;13.60 Test&rpar;](https://www.youtube.com/watch?v=13pP-IqS-mo)
+- [How to Play PS2 Games on a Jailbroken PS5 &lpar;PS5SX2 Setup&rpar;](https://www.youtube.com/watch?v=13pP-IqS-mo)
 - [PS5 Homebrew Beginner Checklist #Shorts](https://www.youtube.com/shorts/-eqy-k7VSZM)
 - [Avoid These Four PS5 Jailbreak Mistakes #Shorts](https://www.youtube.com/shorts/38M_MPhs_8k)
 - [PS5 Homebrew Emulation: RetroArch, PS5SX2 &amp; Eden #Shorts](https://www.youtube.com/shorts/5hcRwmxW3yQ)
