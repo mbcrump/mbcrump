@@ -18,7 +18,7 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 <!-- YOUTUBE:START -->
 - [PS5SX2 2.00 Adds Frame Generation and Disc Swapping](https://www.youtube.com/shorts/ygHrCWIOayc)
 - [Tap an NFC Card to Launch a PS5 Game?](https://www.youtube.com/shorts/_pei5dVul3A)
-- [Tap an NFC Card to Launch a PS5 Game? | PlayStation Homebrew News](https://www.youtube.com/watch?v=kgXbBu7Ii6w)
+- [PlayStation Homebrew News &lpar;NFC on PS5, ESP32, Ghostcontrol, Wind Waker HD&rpar;](https://www.youtube.com/watch?v=kgXbBu7Ii6w)
 - [I Installed PS5SX2 on My Jailbroken PS5 — Here’s What Runs](https://www.youtube.com/watch?v=13pP-IqS-mo)
 - [PS5 Homebrew Beginner Checklist #Shorts](https://www.youtube.com/shorts/-eqy-k7VSZM)
 <!-- YOUTUBE:END -->
