@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [Wind Waker HD Runs Natively on PS5](https://www.youtube.com/shorts/VF8thRxnYgY)
+- [Ghostcontrol Toolbox 2.0 Teases More PS5 Controller Support](https://www.youtube.com/shorts/KchuR7GQ-EI)
 - [ESP32 PS5 Autoloader Puts Network Details on OLED](https://www.youtube.com/shorts/ubakDAZR9ks)
 - [PS5SX2 2.00 Adds Frame Generation and Disc Swapping](https://www.youtube.com/shorts/ygHrCWIOayc)
 - [Tap an NFC Card to Launch a PS5 Game?](https://www.youtube.com/shorts/_pei5dVul3A)
-- [PlayStation Homebrew News &lpar;NFC on PS5, ESP32, Ghostcontrol, Wind Waker HD&rpar;](https://www.youtube.com/watch?v=kgXbBu7Ii6w)
-- [I Installed PS5SX2 on My Jailbroken PS5 — Here’s What Runs](https://www.youtube.com/watch?v=13pP-IqS-mo)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
