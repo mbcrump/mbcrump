@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [PS5 13.60: The Complete Jailbreak &amp; Homebrew Guide](https://www.youtube.com/watch?v=i86A6-tMlGs)
 - [Load Linux on a Jailbroken PS5 13.60 &lpar;EARLY TESTING&rpar;](https://www.youtube.com/watch?v=oDnIUKDty8U)
 - [PS5 13.60 PKG TEST with Early Builds](https://www.youtube.com/watch?v=8nXwXZFUPtw)
 - [New PS5 and PS4 Games for Jailbroken Consoles: October 9 Roundup](https://www.youtube.com/shorts/a-okazZkCZU)
 - [WebKit Autoloader 0.6.1 Fixes PS5 Firmware Offsets](https://www.youtube.com/shorts/rCShaWecQ04)
-- [Y2JB Autoloader Development Build Removes P2JB](https://www.youtube.com/shorts/PSbOW_WWdGM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
