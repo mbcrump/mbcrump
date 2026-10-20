@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [PS5 Pro Linux 13.60 Support Added + New PS5 Firmware Support](https://www.youtube.com/shorts/V-nOpiGdodM)
+- [PS5 A53 Dumping Progress: Code Execution Still in Development](https://www.youtube.com/shorts/yFsdZHDSzs4)
 - [PS5 14.10 Debug Settings Shown by Gezine](https://www.youtube.com/shorts/Q98WQdNr5ak)
 - [BREAKING: PS5 14.10 Debug Settings Shown + A53 Progress &amp; PS5 Pro Linux](https://www.youtube.com/watch?v=FM3WJEsR-8M)
 - [Halloween: The Game Physical Disc on a Jailbroken PS5: It Plays Offline!](https://www.youtube.com/watch?v=jYURd3XPn0I)
-- [PS5 13.60: The Complete Jailbreak &amp; Homebrew Guide](https://www.youtube.com/watch?v=i86A6-tMlGs)
-- [Load Linux on a Jailbroken PS5 13.60 &lpar;EARLY TESTING&rpar;](https://www.youtube.com/watch?v=oDnIUKDty8U)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
