@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [PS5 14.20 Released! 13.60 FPKG News, PS4 Games via Luac0re + Linux](https://www.youtube.com/watch?v=rwl8vLVqPjs)
 - [PS4 Games for Jailbroken Users &lpar;Riven, Wash Cleaner Simulator, Poker Night at the Inventory&rpar;](https://www.youtube.com/shorts/6YnLBcKlt9k)
 - [PS5 Games for Jailbroken Users &lpar;The Grinch, Pumpkin Jack, Terrifier: The ARTcade Game&rpar;](https://www.youtube.com/shorts/pPH7J4u2YhY)
 - [PS5 Pro Linux 13.60 Support Added + New PS5 Firmware Support](https://www.youtube.com/shorts/V-nOpiGdodM)
 - [PS5 A53 Dumping Progress: Code Execution Still in Development](https://www.youtube.com/shorts/yFsdZHDSzs4)
-- [PS5 14.10 Debug Settings Shown by Gezine](https://www.youtube.com/shorts/Q98WQdNr5ak)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
