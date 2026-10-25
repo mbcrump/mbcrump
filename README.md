@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [PlayStation Homebrew News &lpar;Prolapse 14.00/14.10, Steam on PS5 &amp; Linux on PS5 10.x&rpar;](https://www.youtube.com/watch?v=05xGk78MqBk)
 - [Switch 2 Exploit News: SmileBASIC 4 Opens the Door for Jailbreak!](https://www.youtube.com/watch?v=96BLUHGIFxc)
 - [PS4 Games for Jailbroken Users &lpar;VISCO Collection, Mortal Kombat Legacy Kollection, Old School Rally&rpar;](https://www.youtube.com/shorts/EvA8RNsUXOg)
 - [PS5 Games for Jailbroken Users &lpar;Biped 2, Biped, Halloween: The Game&rpar;](https://www.youtube.com/shorts/lIKgTI1OtTI)
 - [PS5 14.20 Released! 13.60 FPKG News, PS4 Games via Luac0re + Linux](https://www.youtube.com/watch?v=rwl8vLVqPjs)
-- [PS4 Games for Jailbroken Users &lpar;Riven, Wash Cleaner Simulator, Poker Night at the Inventory&rpar;](https://www.youtube.com/shorts/6YnLBcKlt9k)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
