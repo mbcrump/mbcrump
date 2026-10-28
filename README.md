@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [Y2JB Installer 1.1.0: Experimental Android Setup for PS5](https://www.youtube.com/shorts/hZhN2m885P4)
+- [Machete 1.3.0: PS5 Save Restoration and Web Save Station](https://www.youtube.com/shorts/Sa93xWnzD_s)
 - [ghostldr: PS4 Game Dumps From USB on PS5 Without a Kernel Jailbreak](https://www.youtube.com/shorts/YYmuSS2TMI8)
 - [TabShifter 1.3.0: Keep Hidden PS5 Tiles Hidden](https://www.youtube.com/shorts/zCpPf3znEB4)
 - [Chiral-FTP 1.1: Quick Connect for PS5 File Transfers](https://www.youtube.com/shorts/nsY0WTJnHns)
-- [PSSwanStation Build 25: PS1 Cloud Saves on PS5](https://www.youtube.com/shorts/W7ROGK2E14o)
-- [PS5SX2 2.15: Launch PS2 Games From the PS5 Home Screen](https://www.youtube.com/shorts/8KiXiZDrAxQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
