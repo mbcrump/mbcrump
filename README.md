@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [Lapse vs Relapse vs Prolapse: PS5 Firmware Differences Explained](https://www.youtube.com/shorts/4dYdgchSFNg)
 - [PS5 and PS4 Game Roundup: Syphon Filter, Trackmania and More](https://www.youtube.com/shorts/CZ8wQyE5gks)
 - [PS5 Upload 7.5.2: Wake Your Console for Queued Transfers](https://www.youtube.com/shorts/RsuC6ngUKeU)
 - [Using Y2JB with Relapse to Jailbreak the PS5!  &lpar;Latest Method!&rpar;](https://www.youtube.com/watch?v=d3UTb0PVqgk)
 - [Y2JB Installer 1.1.0: Experimental Android Setup for PS5](https://www.youtube.com/shorts/hZhN2m885P4)
-- [Machete 1.3.0: PS5 Save Restoration and Web Save Station](https://www.youtube.com/shorts/Sa93xWnzD_s)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
