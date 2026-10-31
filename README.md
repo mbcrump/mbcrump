@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [Is the PS4 14.00 Jailbreak Real? I Tested BONK HEN](https://www.youtube.com/watch?v=UvPTpbOCAQM)
+- [ShadowMountPlus 1.7beta8: Install and Manage PS5 Games From Your TV](https://www.youtube.com/shorts/QP4ua1_S5GE)
 - [PS5 FPKGs: Why the A53 Disclosure Wait Continues](https://www.youtube.com/shorts/btgiYO7a_NE)
 - [PS3 Discs and USB Guitars on PS5: PS5SX3 Progress](https://www.youtube.com/shorts/tp5-JI4B2AM)
 - [PS5 BD-JB Disc v29: New Payload Presets and Emulator Installers](https://www.youtube.com/shorts/NUyJVpAhvdo)
-- [Half-Life: Alyx on PS5 With PSVR2? HLA-PSVR2 Explained](https://www.youtube.com/shorts/9He8Ipq_8zM)
-- [Lapse vs Relapse vs Prolapse: PS5 Firmware Differences Explained](https://www.youtube.com/shorts/4dYdgchSFNg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
