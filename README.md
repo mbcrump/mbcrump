@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [PS5 PKG Folderizer: Convert Debug Packages for ShadowMountPlus](https://www.youtube.com/shorts/dXeBKjQJl8w)
+- [Neo Geo and Arcade Games on PS5: FinalBurn Neo 2.1](https://www.youtube.com/shorts/6CsFR0XXx7g)
 - [PS4 Ambilight: WLED Lighting Without a Capture Card or PC](https://www.youtube.com/shorts/SXme2brYD8c)
 - [RustPS5Emu: A New PS5 Emulator Alpha for Windows and Linux](https://www.youtube.com/shorts/Vu-lTxri3m8)
 - [I Tested BONK HEN for PS4 14.00! Yup, It is REAL!](https://www.youtube.com/watch?v=UvPTpbOCAQM)
-- [ShadowMountPlus 1.7beta8: Install and Manage PS5 Games From Your TV](https://www.youtube.com/shorts/QP4ua1_S5GE)
-- [PS5 FPKGs: Why the A53 Disclosure Wait Continues](https://www.youtube.com/shorts/btgiYO7a_NE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
