@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [CivSwitch for Switch 2 Released: Early Exploration and Information](https://www.youtube.com/watch?v=lDGA6OvPW90)
 - [Xbox Controllers on PS4: Games, Homebrew and the USB Limits](https://www.youtube.com/shorts/04u2nBUOLW8)
 - [Switch 2 Homebrew: Why These 3 Games Matter](https://www.youtube.com/watch?v=W3HBNj1CXFc)
 - [PS5 PKG Folderizer: Convert Debug Packages for ShadowMountPlus](https://www.youtube.com/shorts/dXeBKjQJl8w)
 - [Neo Geo and Arcade Games on PS5: FinalBurn Neo 2.1](https://www.youtube.com/shorts/6CsFR0XXx7g)
-- [PS4 Ambilight: WLED Lighting Without a Capture Card or PC](https://www.youtube.com/shorts/SXme2brYD8c)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
