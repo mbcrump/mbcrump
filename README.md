@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [PS5 13.60: The Complete Jailbreak &amp; Homebrew Guide &lpar;November 2026&rpar;](https://www.youtube.com/watch?v=ew0YBfIdIXg)
 - [Removing Your PS5 Jailbreak for GTA 6? Follow This Checklist](https://www.youtube.com/watch?v=ELdsaZvJVZg)
 - [Does Zelda: Ocarina of Time Work on a CivSwitch-Ready Switch 2?](https://www.youtube.com/watch?v=VxviqCtTqFU)
 - [PS4 14.02 Jailbreak Demonstrated! What&#39;s New in PS5 14.22?](https://www.youtube.com/watch?v=LKQ61kbVfKQ)
 - [CivSwitch Setup Guide for Switch 2: Step by Step](https://www.youtube.com/watch?v=sxFJqAfduHU)
-- [PS4 14.0 WebKit Jailbreak Released! Full Walkthrough!](https://www.youtube.com/watch?v=Gv0YmHrcL3I)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
