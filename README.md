@@ -16,11 +16,11 @@ I make YouTube videos and live stream topics regarding console hacking on YouTub
 </div>
 
 <!-- YOUTUBE:START -->
+- [Run a Local LLM &lpar;Qwen 3.5&rpar; on a Jailbroken PS4!](https://www.youtube.com/watch?v=1VZ24bKM7jQ)
 - [Testing Fake PKGS &lpar;Real A53&rpar; on PS5 13.60!](https://www.youtube.com/watch?v=1kw33IzBAps)
 - [PS4 14.02 WebKit Jailbreak Released! Full Walkthrough!](https://www.youtube.com/watch?v=L30U7Nik59w)
 - [Stop Your Switch 2 From Phoning Home | Pico 2 W + CivSwitch](https://www.youtube.com/watch?v=NuEQfuKGXQk)
 - [PS5 Games on PS4? What EmuFive Actually Does](https://www.youtube.com/shorts/r3tXPXALc18)
-- [GTA 6 PS5 Unboxing: What&#39;s Actually in the Box?](https://www.youtube.com/watch?v=puxHnMcGaX4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mbcrump)
